@@ -62,6 +62,12 @@ export interface Items {
     category?: Category;
     realArtworkTitle?: string;
     artist?: string;
+    soundType?: string;
+    request?: string;
+    thoughtBubble?: string;
+    song?: string;
+    furnitureList?: string;
+    furnitureNameList?: string;
 }
 export declare enum Catalog {
     ForSale = "For sale",
@@ -80,11 +86,14 @@ export declare enum Category {
     Floors = "Floors",
     Food = "Food",
     Fossils = "Fossils",
+    Gyroids = "Gyroids",
     Headwear = "Headwear",
     Housewares = "Housewares",
+    InteriorStructures = "Interior Structures",
     Miscellaneous = "Miscellaneous",
     Music = "Music",
     Other = "Other",
+    ParadisePlanning = "Paradise Planning",
     Photos = "Photos",
     Posters = "Posters",
     Rugs = "Rugs",
@@ -201,6 +210,7 @@ export declare enum SecondaryShape {
     N = "N"
 }
 export declare enum Size {
+    The05X05 = "0.5x0.5",
     The05X1 = "0.5x1",
     The15X15 = "1.5x1.5",
     The1X05 = "1x0.5",
@@ -257,10 +267,10 @@ export interface Variant {
     filename?: string;
     uniqueEntryId: string;
     colors: Color[];
-    source: Source[];
-    internalId: number;
-    buy: number;
-    sell: number | null;
+    source?: Source[];
+    internalId?: number;
+    buy?: number;
+    sell?: number | null;
     themes: Theme[];
     variation?: number | null | string;
     variantId?: VariantID | null;

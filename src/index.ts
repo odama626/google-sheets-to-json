@@ -22,6 +22,7 @@ const SHEET_GROUPS = {
     'Food',
     'Wall-mounted',
     'Ceiling Decor',
+    'Interior Structures',
     'Wallpaper',
     'Floors',
     'Rugs',
@@ -42,6 +43,7 @@ const SHEET_GROUPS = {
     'Music',
     'Fossils',
     'Art',
+    'Gyroids',
     'Other',
     'Paradise Planning'
   ],

@@ -62,6 +62,12 @@ export interface Item {
     category?:                Category | null;
     realArtworkTitle?:        string;
     artist?:                  string;
+    soundType?:               string;
+    request?:                 string;
+    thoughtBubble?:           string;
+    song?:                    string;
+    furnitureList?:           string;
+    furnitureNameList?:       string;
     num?:                     number;
     iconImage?:               null | string;
     critterpediaImage?:       string;
@@ -110,8 +116,6 @@ export interface Item {
     defaultUmbrella?:         string;
     wallpaper?:               string;
     flooring?:                string;
-    furnitureList?:           string;
-    furnitureNameList?:       string;
     diyWorkbench?:            string;
     kitchenEquipment?:        number | string;
     nameColor?:               string;
@@ -377,6 +381,7 @@ export enum Shadow {
 }
 
 export enum Size {
+    The05X05 = "0.5x0.5",
     The05X1 = "0.5x1",
     The15X15 = "1.5x1.5",
     The1X05 = "1x0.5",
@@ -409,13 +414,16 @@ export enum SourceSheet {
     Floors = "Floors",
     Food = "Food",
     Fossils = "Fossils",
+    Gyroids = "Gyroids",
     Headwear = "Headwear",
     Housewares = "Housewares",
     Insects = "Insects",
+    InteriorStructures = "Interior Structures",
     MessageCards = "Message Cards",
     Miscellaneous = "Miscellaneous",
     Music = "Music",
     Other = "Other",
+    ParadisePlanning = "Paradise Planning",
     Photos = "Photos",
     Posters = "Posters",
     Recipes = "Recipes",
@@ -459,10 +467,10 @@ export interface Variant {
     filename?:       string;
     uniqueEntryId:   string;
     colors:          Color[];
-    source:          Source[];
-    internalId:      number;
-    buy:             number;
-    sell:            number | null;
+    source?:         Source[];
+    internalId?:     number;
+    buy?:            number;
+    sell?:           number | null;
     themes:          Theme[];
     variation?:      number | null | string;
     variantId?:      VariantID | null;
