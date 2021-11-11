@@ -19,7 +19,9 @@ const SHEET_GROUPS = {
   items: [
     'Housewares',
     'Miscellaneous',
+    'Food',
     'Wall-mounted',
+    'Ceiling Decor',
     'Wallpaper',
     'Floors',
     'Rugs',

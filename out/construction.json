@@ -7,6 +7,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeBricks",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Rvkrg9tcubTMakcBS"
   },
   {
@@ -17,6 +18,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeIron",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "RmQ6iiKkFf3Sy4iSQ"
   },
   {
@@ -27,6 +29,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeLog",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Px55sTfjKSbbMtjAK"
   },
   {
@@ -37,6 +40,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeRed",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "jTziEHXkeYaugKDQQ"
   },
   {
@@ -47,6 +51,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeStone",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "JmrwC2tRRCCgbZnrp"
   },
   {
@@ -57,6 +62,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeSuspension",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "q52JebMTHDqHJKBba"
   },
   {
@@ -67,6 +73,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeWood",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "7oZ7FMrJEpBLZzsmw"
   },
   {
@@ -77,6 +84,7 @@
     "category": "Bridge",
     "source": ["Resident Services Upgrade"],
     "filename": "BridgeJapanese",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "TbKbHzJM8j8ezmAEF"
   },
   {
@@ -87,6 +95,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "HrAsZSpm2pRj2u8ad"
   },
   {
@@ -97,6 +106,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "uF4YeCTGBx4Tawcp8"
   },
   {
@@ -107,6 +117,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "jQFLgioHYBRbRkBYK"
   },
   {
@@ -117,6 +128,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "oMqf22Pf8fZzeoJdY"
   },
   {
@@ -127,6 +139,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "N5LASg9qjhgexBMe7"
   },
   {
@@ -137,6 +150,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "6mmdmWbK5ZRpbCsWc"
   },
   {
@@ -147,6 +161,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCarvingBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "3ZahH8gvtHGdkEM68"
   },
   {
@@ -157,6 +172,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "qT9ghD7YkZpMDgBDf"
   },
   {
@@ -167,6 +183,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Kzu4WsZwmSWzLdMC6"
   },
   {
@@ -177,6 +194,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "TKDhdqyJBdrz8yQt6"
   },
   {
@@ -187,6 +205,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Z4efmoeAjzYLhTsKJ"
   },
   {
@@ -197,6 +216,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorJapaneseER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "AxrkW9SNKqmh9kX4S"
   },
   {
@@ -207,6 +227,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "BxqZmtEty82NDo8J3"
   },
   {
@@ -217,6 +238,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "hfWfx4mxev3qjp2zH"
   },
   {
@@ -227,6 +249,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCarvingER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "fm6MupiuPAK6HPNNj"
   },
   {
@@ -237,6 +260,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "5tgy5p3AE38NBeG9B"
   },
   {
@@ -247,6 +271,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "JwdJLi5HHZe24DmkF"
   },
   {
@@ -257,6 +282,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "YB3NZt9RRYJroWRcn"
   },
   {
@@ -267,6 +293,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "8k4sCwWWqugmTYuw6"
   },
   {
@@ -277,6 +304,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "cN2eTBiAPt2Bv8GTK"
   },
   {
@@ -287,6 +315,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "AJB8xQLjaJR2WrHBv"
   },
   {
@@ -297,6 +326,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "i5JLZk2vdr5jZ9nBC"
   },
   {
@@ -307,6 +337,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "okXxYSYZ8o2vceKQG"
   },
   {
@@ -317,6 +348,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "SN5ik2H7HfGLuG9EN"
   },
   {
@@ -327,6 +359,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "a4Mft9ihDSpo4jusc"
   },
   {
@@ -337,6 +370,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "8eztTyD69pNsq7Eee"
   },
   {
@@ -347,6 +381,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorJapaneseCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "3bWWrFPG7N5NcAKbS"
   },
   {
@@ -357,6 +392,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "vuSF9u2vtgf95NREh"
   },
   {
@@ -367,6 +403,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "8Gx8LKMb7ipbF9qKa"
   },
   {
@@ -377,6 +414,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowJR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "CTyPWnQDRGqMcDEyf"
   },
   {
@@ -387,6 +425,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "CQFAjS99WqxTu4QDJ"
   },
   {
@@ -397,6 +436,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Gyibc6G9u5Zv4fMdJ"
   },
   {
@@ -407,6 +447,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "mEBW6Y6gLFpBpibwA"
   },
   {
@@ -417,6 +458,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "27cPAfi2DYBEzzgto"
   },
   {
@@ -427,6 +469,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "uzLEvMD46GzBZQ3mN"
   },
   {
@@ -437,6 +480,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ZCfMjY9ED5jW87aZY"
   },
   {
@@ -447,6 +491,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "QjS2nzSqHCLCcLGKQ"
   },
   {
@@ -457,6 +502,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Y7W4HKFy49BLvabBD"
   },
   {
@@ -467,6 +513,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "C2LhRZFynjh6x5gQB"
   },
   {
@@ -477,6 +524,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "jDYnxjeL9zxWFsYM3"
   },
   {
@@ -487,6 +535,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "3xcS4XeYXbi6A4JJc"
   },
   {
@@ -497,6 +546,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "h59gk2epKc9ALPoF9"
   },
   {
@@ -507,6 +557,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "CH2gZGRicug5TB5nF"
   },
   {
@@ -517,6 +568,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "fNwKPm8gu5pnoNZ2H"
   },
   {
@@ -527,6 +579,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "gveHmLcPh9uNLMFB8"
   },
   {
@@ -537,6 +590,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityJR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "YyyhicaCZuYCAd4hm"
   },
   {
@@ -547,6 +601,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "DAwzGNJimCfi6XuPY"
   },
   {
@@ -557,6 +612,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "CHTZZvpsuYP2ZvEtm"
   },
   {
@@ -567,6 +623,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "qj2PXQwBkjoDPMSDc"
   },
   {
@@ -577,6 +634,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowJR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "mH3kwkiNAW9Tgg5XH"
   },
   {
@@ -587,6 +645,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefIR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "oe58QsaRvnF9dQ9Eg"
   },
   {
@@ -597,6 +656,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "BbeW2wNrRMq4PkQB5"
   },
   {
@@ -607,6 +667,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "yE4x5zcn95mcNNf2f"
   },
   {
@@ -617,6 +678,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Cgd6XZxLfYLbuRqoC"
   },
   {
@@ -627,6 +689,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorJapaneseFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "soxZojTeCikxb9q53"
   },
   {
@@ -637,6 +700,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "jexi2bbNCwn2j3JvC"
   },
   {
@@ -647,6 +711,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "n5cEgH77z99n3rT8i"
   },
   {
@@ -657,6 +722,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "FW8NZXxWLT4hY6Nj3"
   },
   {
@@ -667,6 +733,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "cuDwoeXKD2jdQEPvQ"
   },
   {
@@ -677,6 +744,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "uKkrQ5yBYWQMmerB7"
   },
   {
@@ -687,6 +755,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "bTb3Quno8Hhs7ASK2"
   },
   {
@@ -697,6 +766,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "zvWtASTxgTYBunTDz"
   },
   {
@@ -707,6 +777,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "EivvfJTS98tFNbuno"
   },
   {
@@ -717,6 +788,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "LnLiK3nvaaGqMSJbo"
   },
   {
@@ -727,6 +799,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "LGernbHCg8R4Kcs8f"
   },
   {
@@ -737,6 +810,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityIR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "HEczAiQ4dHwB5zh5i"
   },
   {
@@ -747,6 +821,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowIR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Xby3xZhQd3dMb4Coe"
   },
   {
@@ -757,6 +832,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCarvingDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "2jbKjqmXXQddSvH26"
   },
   {
@@ -767,6 +843,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "BLseEGcXhw9dPreLx"
   },
   {
@@ -777,6 +854,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "sjAoF3vsRF5J8jLdq"
   },
   {
@@ -787,6 +865,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "TB89rf3ccaKip4QRz"
   },
   {
@@ -797,6 +876,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "GANZwLknoRyyegbLM"
   },
   {
@@ -807,6 +887,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "qvNBxg3CEWvEnoNpZ"
   },
   {
@@ -817,6 +898,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowIR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "svRR2C9PSLt5ef3Su"
   },
   {
@@ -827,6 +909,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardIR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "gPykmDtFtSdxotvrk"
   },
   {
@@ -837,6 +920,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefJR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "XBquzTWPzAnHcKYBj"
   },
   {
@@ -847,6 +931,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillJR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Q4GLiP3Kmurrk2WSB"
   },
   {
@@ -857,6 +942,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "B6NfDDoKJXSTX6nEZ"
   },
   {
@@ -867,6 +953,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "dmTdoj8NzL2jSKZHu"
   },
   {
@@ -877,6 +964,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowIR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "JHMuJ2pSXBFsCGThM"
   },
   {
@@ -887,6 +975,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowJR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "kiK57D48BgFz2LdAh"
   },
   {
@@ -897,6 +986,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardJR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "oNx9giXYQZLfuCYq5"
   },
   {
@@ -907,6 +997,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "WmuaHC559AALWH2Bb"
   },
   {
@@ -917,6 +1008,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCarvingCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "us8rFY2TSFXCx72kH"
   },
   {
@@ -927,6 +1019,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "NtxTaTeTrzghsGS2W"
   },
   {
@@ -937,6 +1030,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Bp9ysH2C4zeiScQXP"
   },
   {
@@ -947,6 +1041,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillIR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "giywRE5qEmQZC6GAN"
   },
   {
@@ -957,6 +1052,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Nnbfndanco3rvQgWf"
   },
   {
@@ -967,6 +1063,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "XvgfNPwfYGffgE24X"
   },
   {
@@ -977,6 +1074,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "RddBzpZ8QEcLWD4Gv"
   },
   {
@@ -987,6 +1085,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "jtHKujXtSxTwgmgiY"
   },
   {
@@ -997,6 +1096,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Z4oGMDMqpFBdfYXsZ"
   },
   {
@@ -1007,6 +1107,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "h4LK4FrT733y64FZz"
   },
   {
@@ -1017,6 +1118,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorJapaneseDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "tdPuvQyRrRFiBEv7z"
   },
   {
@@ -1027,6 +1129,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "2mrsS49vJNZdWDQeD"
   },
   {
@@ -1037,6 +1140,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "mbsrSkG43TP7tA6e5"
   },
   {
@@ -1047,6 +1151,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "aqhHtKKvCQQpb834t"
   },
   {
@@ -1057,6 +1162,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "xtvqjdafPWY4DF4ww"
   },
   {
@@ -1067,6 +1173,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "rrazQ4rMyTqvC3G3Y"
   },
   {
@@ -1077,6 +1184,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "cFZFak2hPc3jBrpv8"
   },
   {
@@ -1087,6 +1195,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCarvingAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "r6k9ATzzAKaWMNJnQ"
   },
   {
@@ -1097,6 +1206,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "bthYBfAjTxo7F5dNi"
   },
   {
@@ -1107,6 +1217,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Zi4ndrFTFsEqhQPw9"
   },
   {
@@ -1117,6 +1228,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronGrillFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "bz47mYutYXduChB3P"
   },
   {
@@ -1127,6 +1239,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorLatticeGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ndjhLSHZXG4TrmXNS"
   },
   {
@@ -1137,6 +1250,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronpartsHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "yDBA2qT5sGQAzt7eB"
   },
   {
@@ -1147,6 +1261,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimplicityBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Mu7FQYgoRajRuL5BD"
   },
   {
@@ -1157,6 +1272,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "q4CQF3zCDhorZ7fAc"
   },
   {
@@ -1167,6 +1283,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "CxFPdgKzKg2ifRx62"
   },
   {
@@ -1177,6 +1294,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ZovDjWHe8YSZZKinn"
   },
   {
@@ -1187,6 +1305,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardHR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "h2ja68uKd7TxdEwQE"
   },
   {
@@ -1197,6 +1316,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorJapaneseGR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "wY7gy8YD2Y8ojnDnm"
   },
   {
@@ -1207,6 +1327,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorWindowAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "28wnpfEyGZCvdDsmc"
   },
   {
@@ -1217,6 +1338,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorStandardAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "4ovKGY9ZoiujvqkS8"
   },
   {
@@ -1227,6 +1349,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCercleWindowCR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "yoMGH8LhL7mFWZiPD"
   },
   {
@@ -1237,6 +1360,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorReliefER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "5ZKFC4ePpoYDqqJSu"
   },
   {
@@ -1247,6 +1371,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorCarvingFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "iNTxu4FaB6TC9pjni"
   },
   {
@@ -1257,6 +1382,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorChineseDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "dBGXJ8LnHwDZciTRS"
   },
   {
@@ -1267,6 +1393,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorIronDR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "wELe85t5gE9e5fZ7H"
   },
   {
@@ -1277,6 +1404,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorSimpleFR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "t8gHx6QjK9tFMmMna"
   },
   {
@@ -1287,6 +1415,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorVerticalWindowER",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Aszgp3pAbCC75LNHd"
   },
   {
@@ -1297,6 +1426,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorJapaneseBR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "yHJcPMRBWKZofvC4H"
   },
   {
@@ -1307,6 +1437,7 @@
     "category": "Door",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseDoorJapaneseAR",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "jGJNCRi6kcXXTD67g"
   },
   {
@@ -1317,6 +1448,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeIronStairBlue",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "wEC52Lc5cf8TcamMB"
   },
   {
@@ -1327,6 +1459,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeWoodBlue",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "gHnYrhHS9A7MrPdpr"
   },
   {
@@ -1337,6 +1470,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeBrickStair",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "A8AfTzxqpvzfcMeC5"
   },
   {
@@ -1347,6 +1481,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeWoodStair",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "wk6oQREwMmRAmkTWJ"
   },
   {
@@ -1357,6 +1492,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeNatural",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "m7jAPxsGCRgSWo6Ng"
   },
   {
@@ -1367,6 +1503,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeIronStair",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "2nygbmutbmBfuzEXp"
   },
   {
@@ -1377,6 +1514,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeStoneStair",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "4zszj8KsBNe2XgeGq"
   },
   {
@@ -1387,6 +1525,7 @@
     "category": "Incline",
     "source": ["Resident Services Upgrade"],
     "filename": "SlopeWood",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "aR8pTDNtanxDQt7MY"
   },
   {
@@ -1397,6 +1536,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLargeBlack",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "MfwnWmtJuJDAvc2Lz"
   },
   {
@@ -1407,6 +1547,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandardBlack",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "mrnKiTGF6ra4B8X2T"
   },
   {
@@ -1417,6 +1558,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquareBlack",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "EePwSJwYCpQZacFqi"
   },
   {
@@ -1427,6 +1569,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLargeBlue",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "PXyHoT3WdZxgZNngW"
   },
   {
@@ -1437,6 +1580,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandardBlue",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "RzqDEHhw3HSGjpavY"
   },
   {
@@ -1447,6 +1591,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquareBlue",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "cP7bYmszxmrmW2ygL"
   },
   {
@@ -1457,6 +1602,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWoodBlue",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "hc333N34upcNjSabw"
   },
   {
@@ -1467,6 +1613,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWoodDark",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "f2YBipw25G8BAxwSt"
   },
   {
@@ -1477,6 +1624,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLargeGreen",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "MkQ6G3TQ7YqhQToAi"
   },
   {
@@ -1487,6 +1635,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandardGreen",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ujFMEsLrnERfkwfP9"
   },
   {
@@ -1497,6 +1646,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquareGreen",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "xuTEi6Do6tN46d3q5"
   },
   {
@@ -1507,6 +1657,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWoodGreen",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "6bxdrutijtpzKv39F"
   },
   {
@@ -1517,6 +1668,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLarge",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "9mei7SoYtX9WhJqBx"
   },
   {
@@ -1527,6 +1679,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandard",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "WiXx9pYfimxQTSAuF"
   },
   {
@@ -1537,6 +1690,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLargePink",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "442cvvb6XZ2ykmMy9"
   },
   {
@@ -1547,6 +1701,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandardPink",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "TimXNFMGAu2gEdSHg"
   },
   {
@@ -1557,6 +1712,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquarePink",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "wM9frkMp4Bw3j8siW"
   },
   {
@@ -1567,6 +1723,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWoodPink",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "rFbXYtTBoJmXaHs8o"
   },
   {
@@ -1577,6 +1734,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLargeRed",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "dd7zAjPBuZzeepDg4"
   },
   {
@@ -1587,6 +1745,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandardRed",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "TBRuBdRZM6YmQPNHp"
   },
   {
@@ -1597,6 +1756,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquareRed",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "hnC7jsEoSKbk5RsEy"
   },
   {
@@ -1607,6 +1767,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWoodRed",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "wuakRPNugQ72t832X"
   },
   {
@@ -1617,6 +1778,7 @@
     "category": "Mailbox",
     "source": ["Tent"],
     "filename": "FtrPostSimple",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "vhd8waS64LR47ty8Q"
   },
   {
@@ -1627,6 +1789,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquare",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "BKJKu7xjhMajA2aFy"
   },
   {
@@ -1637,6 +1800,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLargeWhite",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "uEXJbNeCvpXGjCokH"
   },
   {
@@ -1647,6 +1811,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandardWhite",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "QYJ4Xh4GSSi4iYzMb"
   },
   {
@@ -1657,6 +1822,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquareWhite",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "62DZnrMMYjrk5jbS5"
   },
   {
@@ -1667,6 +1833,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWoodWhite",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "hs8QMbn7caa6z85ha"
   },
   {
@@ -1677,6 +1844,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWood",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "iqx2M7qtMQjSr73dq"
   },
   {
@@ -1687,6 +1855,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostLargeYellow",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Ed6P9B4Y7y6TA99YS"
   },
   {
@@ -1697,6 +1866,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostStandardYellow",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "egLw54yP3orauEyFd"
   },
   {
@@ -1707,6 +1877,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostSquareYellow",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Me97eMZ28yf3j8S8v"
   },
   {
@@ -1717,6 +1888,7 @@
     "category": "Mailbox",
     "source": ["3rd House Upgrade (Left Room)"],
     "filename": "FtrPostWoodYellow",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ZDcPaCBz24tNYiGe4"
   },
   {
@@ -1727,6 +1899,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Qnx2RexRkQSfFnLuB"
   },
   {
@@ -1737,6 +1910,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "jX9sAaudmHztd6WoQ"
   },
   {
@@ -1747,6 +1921,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "rJ4yqFWLmk6ykB5Et"
   },
   {
@@ -1757,6 +1932,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "BdGehD5vw6WxG8efX"
   },
   {
@@ -1767,6 +1943,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "hyshRxYSTue2YG2zE"
   },
   {
@@ -1777,6 +1954,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "53msS63AkP5L46Bq7"
   },
   {
@@ -1787,6 +1965,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "aEXiJy3tnSJWNTBkv"
   },
   {
@@ -1797,6 +1976,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "mprPiQG9puuaCguod"
   },
   {
@@ -1807,6 +1987,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "2q8sqokbgGi3mebNb"
   },
   {
@@ -1817,6 +1998,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "B7gS5WW3ksnrfNeXK"
   },
   {
@@ -1827,6 +2009,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "zKQZJpWoGzgw7orRW"
   },
   {
@@ -1837,6 +2020,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "mapwfPNGnhg62uQkt"
   },
   {
@@ -1847,6 +2031,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "N9gATxvMvWX5HLEhS"
   },
   {
@@ -1857,6 +2042,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "vc6xgYJWGgA9cTkB7"
   },
   {
@@ -1867,6 +2053,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Z5NELbfAsKrPcwy5L"
   },
   {
@@ -1877,6 +2064,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "roxKGs7uRQw2pw8to"
   },
   {
@@ -1887,6 +2075,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "PpodDcgiEgAJiDiSS"
   },
   {
@@ -1897,6 +2086,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "zH9xBNwrWkv4JfBH3"
   },
   {
@@ -1907,6 +2097,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "T85hEMqZDuz32hnS2"
   },
   {
@@ -1917,6 +2108,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "pEWWGqpXPdLucubvS"
   },
   {
@@ -1927,6 +2119,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ab33Skrb5b7oeha7y"
   },
   {
@@ -1937,6 +2130,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "yfLcN39wQrmNt8WHH"
   },
   {
@@ -1947,6 +2141,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ifhZHe9jHujeiSgAu"
   },
   {
@@ -1957,6 +2152,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "KehTqxnW4g25qgMzj"
   },
   {
@@ -1967,6 +2163,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Pcg6fSeBJ5C92kLPs"
   },
   {
@@ -1977,6 +2174,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ve7xChDBdMDgb6nTS"
   },
   {
@@ -1987,6 +2185,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "3dBXpZsj6tD2dBzwj"
   },
   {
@@ -1997,6 +2196,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04StoneD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "zPrrQagfzwkhtnAZT"
   },
   {
@@ -2007,6 +2207,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "uifwByFWdDXnTJ4vp"
   },
   {
@@ -2017,6 +2218,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04ThatchedF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "CGCfToQFCeeeMkRWc"
   },
   {
@@ -2027,6 +2229,7 @@
     "category": "Roofing",
     "source": ["4th House Upgrade (Right Room)"],
     "filename": "HouseRoofPA04WesterntileC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "n5Gc39GsgiLg4ofb2"
   },
   {
@@ -2037,6 +2240,7 @@
     "category": "Roofing",
     "source": ["Initial House"],
     "filename": "HouseRoofPA04StandardC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "2aQvQYwCsSQyRGyvF"
   },
   {
@@ -2047,6 +2251,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "qbKmPn2exhSsqLCw5"
   },
   {
@@ -2057,6 +2262,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "kYAfpnwSRtZfZs4SG"
   },
   {
@@ -2067,6 +2273,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "di7Pmwx9aDN4v4Xfc"
   },
   {
@@ -2077,16 +2284,18 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "gJeYNSQ4cBQuMiJXS"
   },
   {
     "sourceSheet": "Construction",
-    "name": "blue cobblestone exterior",
+    "name": "blue cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneF.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "eTg7RcPdjkGPBeWL4"
   },
   {
@@ -2097,6 +2306,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "g6d8pc3feddvfd3wm"
   },
   {
@@ -2107,6 +2317,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "9gtBjJE4tYb6wQczz"
   },
   {
@@ -2117,16 +2328,18 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "xAmRhhZacLmi3ySCm"
   },
   {
     "sourceSheet": "Construction",
-    "name": "brown cobblestone exterior",
+    "name": "brown cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneC.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "NL3LEQdCu2TtcE9eW"
   },
   {
@@ -2137,26 +2350,29 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "RBTZCSQfgD2vQH3Ze"
   },
   {
     "sourceSheet": "Construction",
-    "name": "chic cobblestone exterior",
+    "name": "chic cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneB.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Lms2QszBWsfaCCxGf"
   },
   {
     "sourceSheet": "Construction",
-    "name": "cobblestone exterior",
+    "name": "cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneA.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ZH4zSM5t8CkRN6WL7"
   },
   {
@@ -2167,6 +2383,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "tvSkijt9ictdZ5haB"
   },
   {
@@ -2177,16 +2394,18 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "KAwpDuD4BQAodaghb"
   },
   {
     "sourceSheet": "Construction",
-    "name": "gray cobblestone exterior",
+    "name": "gray cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneH.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneH",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "8GYy5WLx9jCpap6uY"
   },
   {
@@ -2197,6 +2416,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "niRaBvHzn59TEuTtu"
   },
   {
@@ -2207,16 +2427,18 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "JfXXtqNSk5D2jYMYf"
   },
   {
     "sourceSheet": "Construction",
-    "name": "green cobblestone exterior",
+    "name": "green cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneG.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Jiy9DpvuhLX6skBrR"
   },
   {
@@ -2227,6 +2449,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "9SCJMuao7JJBS3iry"
   },
   {
@@ -2237,16 +2460,18 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ug4QTydifE3YXJqHR"
   },
   {
     "sourceSheet": "Construction",
-    "name": "orange cobblestone exterior",
+    "name": "orange cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneE.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "Xs4kXRbnMnnkzzdGm"
   },
   {
@@ -2257,6 +2482,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ceKL4XwfZzkGoYpg9"
   },
   {
@@ -2267,6 +2493,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "xmPeJk2bKkAWYtF64"
   },
   {
@@ -2277,16 +2504,18 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeC",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "cA9eF8iCxf8nJhZMy"
   },
   {
     "sourceSheet": "Construction",
-    "name": "red cobblestone exterior",
+    "name": "red cobblestones",
     "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneD.png",
     "buy": 5000,
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StoneD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "xXRQfdAGyLJCXSbY6"
   },
   {
@@ -2297,6 +2526,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardG",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "cwEx7XyAwefNQJ8Rr"
   },
   {
@@ -2307,6 +2537,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoD",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "c27kqMPWnha8RjEki"
   },
   {
@@ -2317,6 +2548,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardB",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "ckT8w7sPNqY2aRMcH"
   },
   {
@@ -2327,6 +2559,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoA",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "QkWc3tQAiWrNhewAw"
   },
   {
@@ -2337,6 +2570,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04WoodframeE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "t7eP9mfhqemhFXnBh"
   },
   {
@@ -2347,6 +2581,7 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StandardE",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "BGfRq5YPPAt93qsms"
   },
   {
@@ -2357,6 +2592,2009 @@
     "category": "Siding",
     "source": ["5th House Upgrade (2nd Floor)"],
     "filename": "HouseWallPA04StuccoF",
+    "versionAdded": "1.0.0",
     "uniqueEntryId": "78XQwM8DMwK8YsJig"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Aa7FWnHaZ6mpCdipJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "j3zWLuerp3mcWhr4a"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "rLyeE59wcGNj63kxc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "HCgSntTapsbjqvP2w"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "vQeA4vyuXmx4yyhpw"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "yCa5Tur8a2669hopn"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "jXCPAqfP4CM8Pazmj"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "5gsDfPeZdQ6HaXLEJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "n2R7SMBY4CyMMx9mn"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "8ezwCcMzih4cP6S34"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ngqgTxENDENDu2v7y"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "QotP3o6f54HD8fujT"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingICropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingICropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "moRCgCDGDDFEeBrfR"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "xuGe4uvN7v6tkWH3P"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "crt2gKoFQwerNHfuD"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "kvvCDgujneJJ7xeY4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "kNDBEjxazTjoMnkaj"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "2wGaRW2eSYHCGjQo5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Ld8FWPkGFByYvHwBa"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "xr7hcs8eiGaeYCG7E"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "XuYf9HFidxss8w4oy"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "vao77AKRbiSCKLLPH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "azyK8onQ9GwkRA6ex"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "9Smq3cNo7NBxDemnp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "aQEwQzPQfqGZkcZ9n"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "T95FhcWw9umLm3Jnp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "YrGKk3uFZ5GA4Mx5L"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ZLFPNXCdxM2mCexTQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "baDmBTzvFSMedHSsZ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "v5hSQEnvqgvnMxNf6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Bd9kJXQKcMvGGHg3t"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "344Xu4durvD6gLYQH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Aim6T9TrmipdQQBas"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "HyzzRrfudwfFnxiHT"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "sdeaNfBhNoDMX69pj"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "b4CM3MSzrJDQSDyDs"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "PABW6hziCXkqQKWqu"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "HBduEun9nEfa43fdJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "NWbw4muaEMp7egxST"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "KNQHAFN4mQ3EGJRou"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "agcGhdCB4SMtDAhW5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "KDAhNBGwQLcCjXC3r"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "tdoxZcRhxYhFMtMD2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "958t3sG7S6bGsv636"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "cvFqhzYySPfNpGaQ9"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "n2ZJ7tZJhapDMW8e7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "8bEGpsoBoFsZr3i4p"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "xQ5Q5RKZ5DMufgfjm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Nfhad3MKWWEYfgYbd"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "vChjafXsrdRBkTxbk"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "SrRuBietDPv5QarSz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "kap6r2JcTCR6pk2xB"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "xDw86YCeCnBuPBX6v"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "s9LDqHL4MCxcH454B"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "n7xsWtKc9caDeRhqH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "GraQmcPMnRydx7DJ4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "BuyDh6eoYjsKAv9QQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "GNWYodDYkeFKcvg2m"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "5qr2mkABSq3nv4NBD"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "3xiDTaNBb5Doq53yy"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "JBns8QjhTJpRe56W4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "QEoZTPE83uQqaoNGv"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "mvFPXSD8sac4E6QNh"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "PKFr3hM9cKs3n86s7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "43fZsai5kuZCeRyf2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "piKD5D7LQPLkMHiTN"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "E9ReAMTNmxtSr8SpE"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "d2QmygGP4CqmJ3aRp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "P8GtnqAu2gsrcbcK2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPA02StandardACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPA02StandardACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "DH8rXHLs2pDdLijtp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ZtTX4WXtduwizR5a4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Mso24dF3RAyQSzihs"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "eibQLwBJTJQSLN7fY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "kGXCqHaQbSJ4H8vkx"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "osbinqGeRWD6aT5zg"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "HFpwxjZokzm92XR5t"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "D8fabk22gSJzacdHh"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "sGghant9wMantXqw7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "SHXXSozrkbX579ofe"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Wu5L8rZytQ8Msw5R2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "nL6sJ5fRNcg7P8npw"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "69koFkRDMabasrrEe"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPA03StandardACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPA03StandardACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "xQsbC7idyLeaaLDfC"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "KJFFvxnH6cxfPr74G"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "jJCMZiZSutXLCjEAc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "e75K3EMygFAArxDDX"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "KakS3oHuNipYfpujt"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "qWFo5ESr4YiSRwjLk"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "YumxsZgapdBAaDQi6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "cMuyGzRWprwsFruor"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "nMQa7rPp2Ft866nMa"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "hZdJZvySwnwFFPgJk"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "E6fbKkKbHAAy5LePJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "pmoDuJDLoxqDLmDrM"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "z2w7oAQd7wfWfzfzN"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "RaWKak29F7NfxGA3A"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "hzkYgksv2Thc29DPH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "pdA7Jb66DBuj4FCTE"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "DWfEiB2GJ9y6JR8s2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "r2DWjrbR34FwRRNZL"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "gyxHNDN2Gr3QoQCbG"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "dgeqhkzf9RFR3MHqP"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Ytum7hzNR2CoPJuxs"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "iZkEyFJnxZhPFKuQ2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "D4HRimNjSCs3MacMS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "pxrCfEzS4S8yoqmPe"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "QHsrt84KFH5RP4W2J"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "28mC6z7b8pZfPeTvs"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "X5J7BiDDeGX8e4ovC"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "nYogCLCgq65Mh76me"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "EPQBZs37HWgd2W2Lf"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "W9RLxtwXnRCjeXwYC"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "rioZpHGa2GY5sDugy"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ENGNAgCSrnAz8ecq6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ijSD8ucXhRsvpDkhm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "HzZZRy4wfMv4EdbYK"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "fjh8WedLELC3jPeap"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "5rpWDknseFb9uZWbS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "cfWMYhEY5RaRDLcuN"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "wDY4RfZ7j2rtyDf5r"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "cdqd3rEsWqfHXdYjH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStuccoBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStuccoBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "2QegXP8oQWqKN4kSn"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "HvmS5DH5BfMNyPjPP"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Fi2WahXNxBjJwadcy"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "XXRmNQ6rGhkh5AMAa"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "gFWvG2DuFfXAFqsuo"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "bfWX3tzhwSLhxMAd4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "xMG6H4mPRsQ45vHqX"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "X8WwpdPonWE5cn6zi"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "43G7yna6392MAJvqo"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "7rumCEEPaziHSSRLX"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "TZ2mm8TQzyythG5YH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ApQ35h6mnmdi25iW4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ajZsKgrvwxqj8FdCG"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "dXR67qxGi2AmwNHcD"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPA00StandardACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPA00StandardACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "mjqvXbH7cr3A6TDF5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ukYJn8MXADYFSbEK6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "p6P4N76nkGpzgTeYY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "FboEwmNMpyRN7zET2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "LBzSEticEDLRdyGpE"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "8Es45bW3RHZRFLhmz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "h5FGYpsGfxEYvpwyt"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "zhGtAZB89xtfyrnvm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "kK26gaagd9nDGWtJo"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDSoilFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDSoilFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "zmRnFRYnYQqiwZbj6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "ThkLS9YC4NaJrzkgv"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCOrientalHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCOrientalHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "LQBASL33D4MonSqYw"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "tuFwLBPyQSqZPcnT8"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "5cGobyNcFy94sRxr3"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingJCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingJCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Mirnta8rgXYuBfHNo"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "yQW28dXnqS8KAbMMo"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04WoodsidngCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04WoodsidngCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "cQ5Kat5xj9t3e57an"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDWoodACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDWoodACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "uR25vwZFbwdFKap9f"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "KjCmBEn6DtkwCmNjA"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPA01StandardACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPA01StandardACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "KzhwPpG4X5fLN9Tfx"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "AzqnNFfYq4bNhnyEf"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "A3ZJ7JzrrjsXZZF9m"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "bz4gXLXyCwCT8H7Sk"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "xGNS9qrkubzXHyo7X"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "gWaWehTzbBqz5tS7T"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAMetalBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAMetalBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "XEGM8kgj83EXZGces"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCJapaneseCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCJapaneseCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "55aQmqfJyGJAXKSbW"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "jWELhm74YSRfpKTuW"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNDStuccoDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNDStuccoDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "sGD4DTjq4TcLwpMnu"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04StuccoECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04StuccoECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "znu62t8nrf7tYTBkz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04WoodDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04WoodDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "tp52iHmLaPZbfZTcE"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04StoneCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04StoneCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Xp3QhTcH6nGEx84Mx"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04LogDCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04LogDCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "F2GxTFDQSC3KXPR5o"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "rPxNkakgwQ5rkg7jq"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "KMxDjNZDirGaGCqiE"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAWoodsidingACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAWoodsidingACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "qSAYK7KRYjZ8ejbCh"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBStoneACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBStoneACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "mzEQGfjjeo2mJHain"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPD04SoilBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPD04SoilBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "6dwacA4gLfamai6jk"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "fhnuLatWR3BawC2bp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNABrickGCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNABrickGCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "TwzGfbBAjLJ8cq8Qm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04JapaneseCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04JapaneseCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "4n7v3CbSNMmvbaXKm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalHCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalHCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "Ctd337LzqYesoqjw4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPC04OrientalECropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPC04OrientalECropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "iGZTvtqtZdgDTK6Hz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNAStuccoBCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNAStuccoBCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "8KaQYBJxWggZzkJGS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNBLogACropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNBLogACropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "oz9vcn3haXFxT7GH8"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallNCWoodCCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallNCWoodCCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "JQHgLTMS6Ca92uxeJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": null,
+    "image": "https://acnhcdn.com/2.0/HouseWallIcon/HouseWallPB04BrickFCropped.png",
+    "buy": null,
+    "category": null,
+    "source": [""],
+    "filename": "HouseWallPB04BrickFCropped",
+    "versionAdded": "2.0.0",
+    "uniqueEntryId": "LS7badPhZ8J7y5geJ"
   }
 ]

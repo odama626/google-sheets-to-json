@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.SourceSheet = exports.Source = exports.Category = void 0;
+exports.VersionAdded = exports.SourceSheet = exports.Source = exports.Category = void 0;
 var Category;
 (function (Category) {
     Category["Bridge"] = "Bridge";
@@ -12,6 +12,7 @@ var Category;
 })(Category = exports.Category || (exports.Category = {}));
 var Source;
 (function (Source) {
+    Source["Empty"] = "";
     Source["InitialHouse"] = "Initial House";
     Source["ResidentServicesUpgrade"] = "Resident Services Upgrade";
     Source["Tent"] = "Tent";
@@ -23,4 +24,9 @@ var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Construction"] = "Construction";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
+var VersionAdded;
+(function (VersionAdded) {
+    VersionAdded["The100"] = "1.0.0";
+    VersionAdded["The200"] = "2.0.0";
+})(VersionAdded = exports.VersionAdded || (exports.VersionAdded = {}));
 //# sourceMappingURL=construction.js.map

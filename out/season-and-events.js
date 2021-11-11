@@ -25,12 +25,12 @@ var VersionLastUpdated;
 (function (VersionLastUpdated) {
     VersionLastUpdated["The100"] = "1.0.0";
     VersionLastUpdated["The1100"] = "1.10.0";
-    VersionLastUpdated["The140"] = "1.4.0";
-    VersionLastUpdated["The150"] = "1.5.0";
+    VersionLastUpdated["The1110"] = "1.11.0";
     VersionLastUpdated["The160"] = "1.6.0";
     VersionLastUpdated["The170"] = "1.7.0";
     VersionLastUpdated["The180"] = "1.8.0";
     VersionLastUpdated["The190"] = "1.9.0";
+    VersionLastUpdated["The200"] = "2.0.0";
 })(VersionLastUpdated = exports.VersionLastUpdated || (exports.VersionLastUpdated = {}));
 var YearEnum;
 (function (YearEnum) {

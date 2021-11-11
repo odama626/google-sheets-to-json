@@ -65,5 +65,6 @@ var VersionAdded;
 (function (VersionAdded) {
     VersionAdded["The100"] = "1.0.0";
     VersionAdded["The190"] = "1.9.0";
+    VersionAdded["The200"] = "2.0.0";
 })(VersionAdded = exports.VersionAdded || (exports.VersionAdded = {}));
 //# sourceMappingURL=villagers.js.map
