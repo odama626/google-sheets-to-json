@@ -28,6 +28,8 @@ export interface Item {
     customizationKitCost?:    number | null;
     variants?:                Variant[];
     stackSize?:               number;
+    inventoryFilename?:       null | string;
+    storageFilename?:         string;
     doorDeco?:                boolean;
     vfx?:                     boolean;
     vfxType?:                 VfxType | null;
@@ -60,8 +62,6 @@ export interface Item {
     category?:                Category | null;
     realArtworkTitle?:        string;
     artist?:                  string;
-    inventoryFilename?:       string;
-    storageFilename?:         string;
     num?:                     number;
     iconImage?:               null | string;
     critterpediaImage?:       string;
@@ -407,6 +407,7 @@ export enum SourceSheet {
     Fencing = "Fencing",
     Fish = "Fish",
     Floors = "Floors",
+    Food = "Food",
     Fossils = "Fossils",
     Headwear = "Headwear",
     Housewares = "Housewares",
@@ -605,7 +606,6 @@ export enum Source {
     KicksCoOp = "Kicks' Co-op",
     Label = "Label",
     Leif = "Leif",
-    Lottie = "Lottie",
     Luna = "Luna",
     MOM = "Mom",
     Mail = "Mail",

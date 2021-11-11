@@ -11,7 +11,7 @@ import {DateTime} from 'luxon';
 // dayjs.extend(utc);
 // dayjs.extend(customParseFormat);
 
-const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
+const SHEET_ID = '13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4';
 
 const OUTPUT = 'out';
 
@@ -43,6 +43,7 @@ const SHEET_GROUPS = {
     'Fossils',
     'Art',
     'Other',
+    'Paradise Planning'
   ],
   creatures: ['Insects', 'Fish', 'Sea Creatures'],
   construction: ['Construction'],

@@ -28,6 +28,8 @@ export interface Items {
     customizationKitCost?: number | null;
     variants: Variant[];
     stackSize?: number;
+    inventoryFilename?: null | string;
+    storageFilename?: string;
     doorDeco?: boolean;
     vfx?: boolean;
     vfxType?: VfxType | null;
@@ -60,8 +62,6 @@ export interface Items {
     category?: Category;
     realArtworkTitle?: string;
     artist?: string;
-    inventoryFilename?: string;
-    storageFilename?: string;
 }
 export declare enum Catalog {
     ForSale = "For sale",
@@ -78,6 +78,7 @@ export declare enum Category {
     DressUp = "Dress-Up",
     Fencing = "Fencing",
     Floors = "Floors",
+    Food = "Food",
     Fossils = "Fossils",
     Headwear = "Headwear",
     Housewares = "Housewares",
@@ -416,7 +417,6 @@ export declare enum Source {
     KicksCoOp = "Kicks' Co-op",
     Label = "Label",
     Leif = "Leif",
-    Lottie = "Lottie",
     Luna = "Luna",
     MOM = "Mom",
     Mail = "Mail",
