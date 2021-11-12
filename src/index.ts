@@ -45,7 +45,7 @@ const SHEET_GROUPS = {
     'Art',
     'Gyroids',
     'Other',
-    'Paradise Planning'
+    'Paradise Planning',
   ],
   creatures: ['Insects', 'Fish', 'Sea Creatures'],
   construction: ['Construction'],
@@ -107,9 +107,9 @@ export async function main(auth: OAuth2Client) {
   const all = [];
 
   for (const [key] of Object.entries(SHEET_GROUPS)) {
-    if (key === 'achievements' || key === 'reactions') {
-      continue;
-    }
+    // if (key === 'achievements' || key === 'reactions') {
+    //   continue;
+    // }
 
     const data = readJSON(`${OUTPUT}/${key}.json`);
 
@@ -157,8 +157,20 @@ export async function loadData(
 
     const [header, ...rows] = response.data.values!;
 
+    // keyName reset
+    let newSheetName = sheetName.replace(' ', '');
+    newSheetName = newSheetName.replace('-', '');
+
+    if (newSheetName == 'Wallmounted') {
+      newSheetName = 'WallMounted';
+    } else if (newSheetName == 'SpecialNPCs') {
+      newSheetName = 'SpecialNpcs';
+    } else if (newSheetName == 'SeasonsandEvents') {
+      newSheetName = 'SeasonsAndEvents';
+    }
+
     for (const row of rows) {
-      data.push({SourceSheet: sheetName, ...zipObject(header, row)});
+      data.push({SourceSheet: newSheetName, ...zipObject(header, row)});
     }
   }
 

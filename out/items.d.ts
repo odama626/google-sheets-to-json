@@ -1,5 +1,5 @@
 export interface Items {
-    sourceSheet: Category;
+    sourceSheet: SourceSheet;
     name: string;
     patternTitle?: null | string;
     diy?: boolean;
@@ -75,35 +75,9 @@ export declare enum Catalog {
     NotInCatalog = "Not in catalog"
 }
 export declare enum Category {
-    Accessories = "Accessories",
-    Art = "Art",
-    Bags = "Bags",
-    Bottoms = "Bottoms",
-    CeilingDecor = "Ceiling Decor",
-    ClothingOther = "Clothing Other",
-    DressUp = "Dress-Up",
-    Fencing = "Fencing",
-    Floors = "Floors",
-    Food = "Food",
-    Fossils = "Fossils",
-    Gyroids = "Gyroids",
-    Headwear = "Headwear",
     Housewares = "Housewares",
-    InteriorStructures = "Interior Structures",
     Miscellaneous = "Miscellaneous",
-    Music = "Music",
-    Other = "Other",
-    ParadisePlanning = "Paradise Planning",
-    Photos = "Photos",
-    Posters = "Posters",
-    Rugs = "Rugs",
-    Shoes = "Shoes",
-    Socks = "Socks",
-    Tools = "Tools",
-    Tops = "Tops",
-    Umbrellas = "Umbrellas",
-    WallMounted = "Wall-mounted",
-    Wallpaper = "Wallpaper"
+    WallMounted = "Wall-mounted"
 }
 export declare enum CeilingType {
     Cloth = "Cloth",
@@ -232,6 +206,37 @@ export declare enum SizeCategory {
     Large = "Large",
     Medium = "Medium",
     Small = "Small"
+}
+export declare enum SourceSheet {
+    Accessories = "Accessories",
+    Art = "Art",
+    Bags = "Bags",
+    Bottoms = "Bottoms",
+    CeilingDecor = "CeilingDecor",
+    ClothingOther = "ClothingOther",
+    DressUp = "DressUp",
+    Fencing = "Fencing",
+    Floors = "Floors",
+    Food = "Food",
+    Fossils = "Fossils",
+    Gyroids = "Gyroids",
+    Headwear = "Headwear",
+    Housewares = "Housewares",
+    InteriorStructures = "InteriorStructures",
+    Miscellaneous = "Miscellaneous",
+    Music = "Music",
+    Other = "Other",
+    ParadisePlanning = "ParadisePlanning",
+    Photos = "Photos",
+    Posters = "Posters",
+    Rugs = "Rugs",
+    Shoes = "Shoes",
+    Socks = "Socks",
+    Tools = "Tools",
+    Tops = "Tops",
+    Umbrellas = "Umbrellas",
+    WallMounted = "WallMounted",
+    Wallpaper = "Wallpaper"
 }
 export declare enum Style {
     Active = "Active",

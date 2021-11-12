@@ -72,7 +72,7 @@ var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Fish"] = "Fish";
     SourceSheet["Insects"] = "Insects";
-    SourceSheet["SeaCreatures"] = "Sea Creatures";
+    SourceSheet["SeaCreatures"] = "SeaCreatures";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
 var VersionAdded;
 (function (VersionAdded) {

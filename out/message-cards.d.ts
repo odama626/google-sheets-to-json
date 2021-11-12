@@ -22,5 +22,5 @@ export interface MessageCards {
     uniqueEntryId: string;
 }
 export declare enum SourceSheet {
-    MessageCards = "Message Cards"
+    MessageCards = "MessageCards"
 }

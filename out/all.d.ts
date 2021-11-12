@@ -81,7 +81,7 @@ export interface Item {
     iconFilename?: null | string;
     critterpediaFilename?: string;
     furnitureFilename?: string;
-    internalId?: number;
+    internalId?: number | string;
     uniqueEntryId?: string;
     colors?: Color[];
     specialSell?: number;
@@ -104,6 +104,36 @@ export interface Item {
     materials?: {
         [key: string]: number;
     };
+    achievementDescription?: string;
+    achievementCriteria?: string;
+    internalName?: string;
+    internalCategory?: string;
+    numOfTiers?: number | string;
+    tier1?: number | string;
+    tier2?: number | null | string;
+    tier3?: number | null | string;
+    tier4?: number | null | string;
+    tier5?: number | null | string;
+    tier6?: null | string;
+    tier1Reward?: number | string;
+    tier2Reward?: number | null | string;
+    tier3Reward?: number | null | string;
+    tier4Reward?: number | null | string;
+    tier5Reward?: number | null | string;
+    tier6Reward?: null | string;
+    tier1Modifier?: string;
+    tier1Noun?: string;
+    tier2Modifier?: null | string;
+    tier2Noun?: null | string;
+    tier3Modifier?: null | string;
+    tier3Noun?: null | string;
+    tier4Modifier?: null | string;
+    tier4Noun?: null | string;
+    tier5Modifier?: null | string;
+    tier5Noun?: null | string;
+    tier6Modifier?: null | string;
+    tier6Noun?: null | string;
+    sequential?: boolean;
     photoImage?: null | string;
     houseImage?: null | string;
     species?: string;
@@ -378,13 +408,14 @@ export declare enum Size {
 }
 export declare enum SourceSheet {
     Accessories = "Accessories",
+    Achievements = "Achievements",
     Art = "Art",
     Bags = "Bags",
     Bottoms = "Bottoms",
-    CeilingDecor = "Ceiling Decor",
-    ClothingOther = "Clothing Other",
+    CeilingDecor = "CeilingDecor",
+    ClothingOther = "ClothingOther",
     Construction = "Construction",
-    DressUp = "Dress-Up",
+    DressUp = "DressUp",
     Fencing = "Fencing",
     Fish = "Fish",
     Floors = "Floors",
@@ -394,26 +425,27 @@ export declare enum SourceSheet {
     Headwear = "Headwear",
     Housewares = "Housewares",
     Insects = "Insects",
-    InteriorStructures = "Interior Structures",
-    MessageCards = "Message Cards",
+    InteriorStructures = "InteriorStructures",
+    MessageCards = "MessageCards",
     Miscellaneous = "Miscellaneous",
     Music = "Music",
     Other = "Other",
-    ParadisePlanning = "Paradise Planning",
+    ParadisePlanning = "ParadisePlanning",
     Photos = "Photos",
     Posters = "Posters",
+    Reactions = "Reactions",
     Recipes = "Recipes",
     Rugs = "Rugs",
-    SeaCreatures = "Sea Creatures",
-    SeasonsAndEvents = "Seasons and Events",
+    SeaCreatures = "SeaCreatures",
+    SeasonsandEvents = "Seasonsand Events",
     Shoes = "Shoes",
     Socks = "Socks",
-    SpecialNPCS = "Special NPCs",
+    SpecialNpcs = "SpecialNpcs",
     Tools = "Tools",
     Tops = "Tops",
     Umbrellas = "Umbrellas",
     Villagers = "Villagers",
-    WallMounted = "Wall-mounted",
+    WallMounted = "WallMounted",
     Wallpaper = "Wallpaper"
 }
 export declare enum Style {
