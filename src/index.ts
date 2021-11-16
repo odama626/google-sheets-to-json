@@ -19,7 +19,7 @@ const SHEET_GROUPS = {
   items: [
     'Housewares',
     'Miscellaneous',
-    'Food',
+    // 'Food',
     'Wall-mounted',
     'Ceiling Decor',
     'Interior Structures',
@@ -28,7 +28,7 @@ const SHEET_GROUPS = {
     'Rugs',
     'Photos',
     'Posters',
-    'Tools',
+    'Tools/Goods',
     'Fencing',
     'Tops',
     'Bottoms',
@@ -42,7 +42,7 @@ const SHEET_GROUPS = {
     'Clothing Other',
     'Music',
     'Fossils',
-    'Art',
+    'Artwork',
     'Gyroids',
     'Other',
     'Paradise Planning',
@@ -290,7 +290,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       delete item['hhaSeries'];
       delete item['kitCost'];
 
-      if (item.sourceSheet === 'Tools') {
+      if (item.sourceSheet === 'Tools/Goods') {
         delete item[''];
       }
     }
