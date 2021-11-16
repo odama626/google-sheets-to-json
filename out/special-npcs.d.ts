@@ -8,9 +8,9 @@ export interface SpecialNpcs {
     versionAdded: null | string;
     npcId: string;
     internalId: number;
-    birthday: string;
-    nameColor: string;
-    bubbleColor: string;
+    birthday: number | string;
+    nameColor: null | string;
+    bubbleColor: null | string;
     iconFilename: null | string;
     photoFilename: null | string;
     uniqueEntryId: string;

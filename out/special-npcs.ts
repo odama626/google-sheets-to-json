@@ -1,26 +1,26 @@
 export interface SpecialNpcs {
-  sourceSheet: SourceSheet;
-  name: string;
-  iconImage: null | string;
-  photoImage: null | string;
-  gender: Gender;
-  genderAsia: Gender;
-  versionAdded: null | string;
-  npcId: string;
-  internalId: number;
-  birthday: string;
-  nameColor: string;
-  bubbleColor: string;
-  iconFilename: null | string;
-  photoFilename: null | string;
-  uniqueEntryId: string;
+    sourceSheet:   SourceSheet;
+    name:          string;
+    iconImage:     null | string;
+    photoImage:    null | string;
+    gender:        Gender;
+    genderAsia:    Gender;
+    versionAdded:  null | string;
+    npcId:         string;
+    internalId:    number;
+    birthday:      number | string;
+    nameColor:     null | string;
+    bubbleColor:   null | string;
+    iconFilename:  null | string;
+    photoFilename: null | string;
+    uniqueEntryId: string;
 }
 
 export enum Gender {
-  Female = 'Female',
-  Male = 'Male',
+    Female = "Female",
+    Male = "Male",
 }
 
 export enum SourceSheet {
-  SpecialNpcs = 'SpecialNpcs',
+    SpecialNpcs = "SpecialNpcs",
 }

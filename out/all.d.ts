@@ -28,8 +28,7 @@ export interface Item {
     customizationKitCost?: number | null;
     variants?: Variant[];
     stackSize?: number;
-    inventoryFilename?: null | string;
-    storageFilename?: string;
+    foodPower?: number | null;
     doorDeco?: boolean;
     vfx?: boolean;
     vfxType?: VfxType | null;
@@ -63,6 +62,8 @@ export interface Item {
     realArtworkTitle?: string;
     artist?: string;
     soundType?: string;
+    inventoryFilename?: string;
+    storageFilename?: string;
     request?: string;
     thoughtBubble?: string;
     song?: string;
@@ -140,7 +141,7 @@ export interface Item {
     personality?: Personality;
     subtype?: Subtype;
     hobby?: Hobby;
-    birthday?: string;
+    birthday?: number | string;
     catchphrase?: string;
     favoriteSong?: string;
     favoriteSaying?: string;
@@ -150,8 +151,8 @@ export interface Item {
     flooring?: string;
     diyWorkbench?: string;
     kitchenEquipment?: number | string;
-    nameColor?: string;
-    bubbleColor?: string;
+    nameColor?: null | string;
+    bubbleColor?: null | string;
     styles?: Style[];
     genderAsia?: Gender;
     npcId?: string;
@@ -259,6 +260,7 @@ export declare enum CurtainType {
     SlattedBlinds = "Slatted Blinds"
 }
 export declare enum ExchangeCurrency {
+    Bells = "Bells",
     HeartCrystals = "Heart Crystals",
     NookMiles = "Nook Miles",
     NookPoints = "Nook Points"
@@ -302,6 +304,7 @@ export declare enum InteractEnum {
     Mirror = "Mirror",
     MusicPlayer = "Music Player",
     MusicalInstrument = "Musical Instrument",
+    Storage = "Storage",
     Trash = "Trash",
     Tv = "TV",
     Wardrobe = "Wardrobe",
@@ -409,7 +412,7 @@ export declare enum Size {
 export declare enum SourceSheet {
     Accessories = "Accessories",
     Achievements = "Achievements",
-    Art = "Art",
+    Artwork = "Artwork",
     Bags = "Bags",
     Bottoms = "Bottoms",
     CeilingDecor = "CeilingDecor",
@@ -419,7 +422,6 @@ export declare enum SourceSheet {
     Fencing = "Fencing",
     Fish = "Fish",
     Floors = "Floors",
-    Food = "Food",
     Fossils = "Fossils",
     Gyroids = "Gyroids",
     Headwear = "Headwear",
@@ -437,11 +439,11 @@ export declare enum SourceSheet {
     Recipes = "Recipes",
     Rugs = "Rugs",
     SeaCreatures = "SeaCreatures",
-    SeasonsandEvents = "Seasonsand Events",
+    SeasonsAndEvents = "SeasonsAndEvents",
     Shoes = "Shoes",
     Socks = "Socks",
     SpecialNpcs = "SpecialNpcs",
-    Tools = "Tools",
+    ToolsGoods = "Tools/Goods",
     Tops = "Tops",
     Umbrellas = "Umbrellas",
     Villagers = "Villagers",
@@ -566,7 +568,6 @@ export declare enum Source {
     ChoppingATree = "Chopping a tree",
     ClamDigSpot = "Clam dig spot",
     CoconutTree = "Coconut Tree",
-    CookPumpkin = "CookPumpkin",
     Cooking = "Cooking",
     Crafting = "Crafting",
     Cyrus = "Cyrus",
@@ -598,6 +599,7 @@ export declare enum Source {
     GroupStretching = "Group Stretching",
     Gullivarrr = "Gullivarrr",
     Gulliver = "Gulliver",
+    HHPApparelShop = "HHP Apparel Shop",
     HHPCafé = "HHP Caf\u00E9",
     HHPOffice = "HHP Office",
     HardwoodTree = "Hardwood Tree",
@@ -615,10 +617,12 @@ export declare enum Source {
     KicksCoOp = "Kicks' Co-op",
     Label = "Label",
     Leif = "Leif",
+    Lottie = "Lottie",
     Luna = "Luna",
     MOM = "Mom",
     Mail = "Mail",
     MayDayTour = "May Day Tour",
+    Niko = "Niko",
     Nintendo = "Nintendo",
     None = "None",
     NookLink = "NookLink",
@@ -631,7 +635,6 @@ export declare enum Source {
     NookShoppingSeasonal = "Nook Shopping Seasonal",
     NotAvailable = "NotAvailable",
     OnGround = "On ground",
-    OneRoomTailorKKFes = "OneRoomTailorKKFes",
     OrangeTree = "Orange Tree",
     Pascal = "Pascal",
     Pavé = "Pav\u00E9",

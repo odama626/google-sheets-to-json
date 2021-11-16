@@ -165,7 +165,7 @@ export async function loadData(
       newSheetName = 'WallMounted';
     } else if (newSheetName == 'SpecialNPCs') {
       newSheetName = 'SpecialNpcs';
-    } else if (newSheetName == 'SeasonsandEvents') {
+    } else if (newSheetName == 'Seasonsand Events') {
       newSheetName = 'SeasonsAndEvents';
     }
 
@@ -189,7 +189,7 @@ const valueFormatters: ValueFormatters = {
     input.includes('\n')
       ? input.split('\n')
       : input.split(/[;,]/).map(i => i.trim()),
-  birthday: normaliseBirthday,
+  // birthday: normaliseBirthday,
 };
 
 const BDAY_FORMAT_IN = 'H/d';
@@ -240,6 +240,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       }
 
       if (valueFormatter) {
+        
         try {
           value = valueFormatter(value, item);
         } catch (e) {

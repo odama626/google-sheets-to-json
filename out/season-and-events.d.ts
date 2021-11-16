@@ -15,7 +15,7 @@ export interface SeasonAndEvents {
     uniqueEntryId: string;
 }
 export declare enum SourceSheet {
-    SeasonsandEvents = "Seasonsand Events"
+    SeasonsAndEvents = "SeasonsAndEvents"
 }
 export declare enum Type {
     BasegameEvent = "Basegame event",

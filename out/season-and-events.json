@@ -1,6 +1,6 @@
 [
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "young spring bamboo",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -16,7 +16,7 @@
     "uniqueEntryId": "B4yFhfZgohc6mpGye"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "cherry-blossom petals",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -32,7 +32,7 @@
     "uniqueEntryId": "Xo3c8z7JTrEth4NW7"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "summer shells",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -48,7 +48,7 @@
     "uniqueEntryId": "sjovDaZqkh4jafozk"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "acorns and pine cones",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -64,7 +64,7 @@
     "uniqueEntryId": "Rj8eWkGTM5STPvprt"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "mushrooms",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -80,7 +80,7 @@
     "uniqueEntryId": "hAE9QzEyaKskMpTfw"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "maple leaves",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -96,7 +96,7 @@
     "uniqueEntryId": "2pHZfthLCYjYxEGXJ"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "snowflakes",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -112,7 +112,7 @@
     "uniqueEntryId": "owiAqbhvj8Ej62yer"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "ornaments",
     "type": "Crafting season",
     "versionAdded": "1.0.0",
@@ -128,7 +128,7 @@
     "uniqueEntryId": "hMjjfnZoboSEfX6kN"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Aries",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -144,7 +144,7 @@
     "uniqueEntryId": "x8ieT7oBnYmXxDq7A"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Taurus",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -160,7 +160,7 @@
     "uniqueEntryId": "zhNANPmM76brtTv8z"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Gemini",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -176,7 +176,7 @@
     "uniqueEntryId": "vKNjJizgqpQfBgf5y"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Cancer",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -192,7 +192,7 @@
     "uniqueEntryId": "d7jo5yXDsHr7ZPSn7"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Leo",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -208,7 +208,7 @@
     "uniqueEntryId": "TKcZ9NSsgrFpDgsa8"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Virgo",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -224,7 +224,7 @@
     "uniqueEntryId": "s5pDRHdgiSvDQqHdL"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Libra",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -240,7 +240,7 @@
     "uniqueEntryId": "9XGhdA9uRd8wpFcnF"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Scorpio",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -256,7 +256,7 @@
     "uniqueEntryId": "596kyafmfDmHdW7ce"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Sagittarius",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -272,7 +272,7 @@
     "uniqueEntryId": "bTaE6agqsduPGZ9h3"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Capricorn",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -288,7 +288,7 @@
     "uniqueEntryId": "Hg5dLT2EZYv4AqRHS"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Aquarius",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -304,7 +304,7 @@
     "uniqueEntryId": "qhhHqPBRzJ7qLsocW"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Pisces",
     "type": "Zodiac season",
     "versionAdded": "1.0.0",
@@ -320,7 +320,7 @@
     "uniqueEntryId": "t3oLZbrWRDCqGFWff"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Spring shopping",
     "type": "Shopping season",
     "versionAdded": "1.0.0",
@@ -336,7 +336,7 @@
     "uniqueEntryId": "cgstqsmrRFsG3HRHm"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Summer shopping",
     "type": "Shopping season",
     "versionAdded": "1.0.0",
@@ -352,7 +352,7 @@
     "uniqueEntryId": "gdqi5z5jot9H4fsz9"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Fall shopping",
     "type": "Shopping season",
     "versionAdded": "1.0.0",
@@ -368,7 +368,7 @@
     "uniqueEntryId": "pmM4yBFvMXTXcooL5"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Winter shopping",
     "type": "Shopping season",
     "versionAdded": "1.0.0",
@@ -384,7 +384,7 @@
     "uniqueEntryId": "h5W3JH8kDC4xJHgva"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Festive shopping",
     "type": "Shopping season",
     "versionAdded": "1.0.0",
@@ -400,7 +400,7 @@
     "uniqueEntryId": "z3NNqZMg7eDZRK3JD"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Birthday",
     "type": "Basegame event",
     "versionAdded": "1.0.0",
@@ -416,7 +416,7 @@
     "uniqueEntryId": "8gF25cNHcBJxveb5A"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Fishing Tourney",
     "type": "Basegame event",
     "versionAdded": "1.0.0",
@@ -432,7 +432,7 @@
     "uniqueEntryId": "FGE5KSaw2fEX9M7Er"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Bug-Off",
     "type": "Basegame event",
     "versionAdded": "1.0.0",
@@ -448,7 +448,7 @@
     "uniqueEntryId": "ARcnvRvmH6ug2JBXi"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Countdown",
     "type": "Basegame event",
     "versionAdded": "1.0.0",
@@ -464,14 +464,14 @@
     "uniqueEntryId": "ofQGGtcwwK7dm9tpW"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Bunny Day (ready days)",
     "type": "Special event",
     "versionAdded": "1.1.0",
     "versionLastUpdated": "1.9.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "March 28 – April 3",
-    "datesSouthernHemisphere": "March 28 – April 3",
+    "year": 2022,
+    "datesNorthernHemisphere": "April 10 – April 16",
+    "datesSouthernHemisphere": "April 10 – April 16",
     "displayName": "Bunny Day",
     "eventNotes": null,
     "internalLabel": "Easter",
@@ -480,14 +480,14 @@
     "uniqueEntryId": "4ku2HWxsXtYsHZPnA"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Bunny Day",
     "type": "Special event",
     "versionAdded": "1.1.0",
     "versionLastUpdated": "1.9.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "April 4",
-    "datesSouthernHemisphere": "April 4",
+    "year": 2022,
+    "datesNorthernHemisphere": "April 17",
+    "datesSouthernHemisphere": "April 17",
     "displayName": "Bunny Day",
     "eventNotes": null,
     "internalLabel": "Easter",
@@ -496,7 +496,7 @@
     "uniqueEntryId": "mN6SNYaRhEqushr8n"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Nature Day",
     "type": "Special event",
     "versionAdded": "1.2.0",
@@ -512,12 +512,12 @@
     "uniqueEntryId": "ej9oowKQuQmZs4sZY"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "May Day",
     "type": "Special event",
     "versionAdded": "1.2.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "April 29 – May 7",
     "datesSouthernHemisphere": "April 29 – May 7",
     "displayName": "May Day",
@@ -528,12 +528,12 @@
     "uniqueEntryId": "cRAsXSu4L5HHoScER"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "International Museum Day",
     "type": "Special event",
     "versionAdded": "1.2.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "May 18 – May 31",
     "datesSouthernHemisphere": "May 18 – May 31",
     "displayName": "International Museum Day",
@@ -544,12 +544,12 @@
     "uniqueEntryId": "Dk8YdEvdKBNihCDFM"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Wedding Season",
     "type": "Special event",
     "versionAdded": "1.2.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "June 1 – June 30",
     "datesSouthernHemisphere": "June 1 – June 30",
     "displayName": "Wedding Season",
@@ -560,12 +560,12 @@
     "uniqueEntryId": "67TSSQDefBj5N8gp8"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Mother's Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.2.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "May 1 – May 31",
     "datesSouthernHemisphere": "May 1 – May 31",
     "displayName": "Mother's Day",
@@ -576,12 +576,12 @@
     "uniqueEntryId": "Hs623rDkgMAhnsjhy"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "International Children's Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.2.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "June 1 – June 15",
     "datesSouthernHemisphere": "June 1 – June 15",
     "displayName": "International Children's Day",
@@ -592,12 +592,12 @@
     "uniqueEntryId": "PSzeGZ8iagsS3juM8"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Father's Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.2.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "June 1 – June 30",
     "datesSouthernHemisphere": "June 1 – June 30",
     "displayName": "Father's Day",
@@ -608,12 +608,12 @@
     "uniqueEntryId": "DGpj63PS3qXFbSYBK"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Summer Solstice (northern hemisphere)",
     "type": "Nook Shopping event",
     "versionAdded": "1.2.0",
-    "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "versionLastUpdated": "2.0.0",
+    "year": 2022,
     "datesNorthernHemisphere": "June 15 – June 21",
     "datesSouthernHemisphere": null,
     "displayName": "Summer Solstice",
@@ -624,12 +624,12 @@
     "uniqueEntryId": "vQbgAS6zTFgMZ2Ci4"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Winter Solstice (southern hemisphere)",
     "type": "Nook Shopping event",
     "versionAdded": "1.2.0",
-    "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "versionLastUpdated": "2.0.0",
+    "year": 2022,
     "datesNorthernHemisphere": null,
     "datesSouthernHemisphere": "June 15 – June 21",
     "displayName": "Winter Solstice",
@@ -640,12 +640,12 @@
     "uniqueEntryId": "WTek3FANZJsBDDQrf"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Tanabata",
     "type": "Nook Shopping event",
     "versionAdded": "1.3.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "July 1 – July 7",
     "datesSouthernHemisphere": "July 1 – July 7",
     "displayName": "Tanabata",
@@ -656,14 +656,14 @@
     "uniqueEntryId": "DRHv3aXj2usrWdsHQ"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Fireworks Show",
     "type": "Special event",
     "versionAdded": "1.4.0",
     "versionLastUpdated": "1.11.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "August 1;\nAugust 8;\nAugust 15;\nAugust 22;\nAugust 29",
-    "datesSouthernHemisphere": "August 1;\nAugust 8;\nAugust 15;\nAugust 22;\nAugust 29",
+    "year": 2022,
+    "datesNorthernHemisphere": "August 7;\nAugust 14;\nAugust 21;\nAugust 28",
+    "datesSouthernHemisphere": "August 7;\nAugust 14;\nAugust 21;\nAugust 28",
     "displayName": "Fireworks Show",
     "eventNotes": null,
     "internalLabel": "Fireworks1;\nFireworks2;\nFireworks3;\nFireworks4;\nFireworks5",
@@ -672,12 +672,12 @@
     "uniqueEntryId": "h6b7G8S5L36zMPLFg"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Cowboy Festival",
     "type": "Nook Shopping event",
     "versionAdded": "1.4.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "July 15 – August 15",
     "datesSouthernHemisphere": "July 15 – August 15",
     "displayName": "Cowboy Festival",
@@ -688,14 +688,14 @@
     "uniqueEntryId": "DRqqw3iMu6sranZ5Y"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Cowherd & Weaver Girl Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.4.0",
     "versionLastUpdated": "1.11.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "August 5 – August 14",
-    "datesSouthernHemisphere": "August 5 – August 14",
+    "year": 2022,
+    "datesNorthernHemisphere": "July 26 – August 4",
+    "datesSouthernHemisphere": "July 26 – August 4",
     "displayName": "Cowherd & Weaver Girl Day",
     "eventNotes": null,
     "internalLabel": "GyurouSyokujyo",
@@ -704,7 +704,7 @@
     "uniqueEntryId": "RpMgTwZcCL82njXnh"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Grape Harvest Festival",
     "type": "Nook Shopping event",
     "versionAdded": "1.4.0",
@@ -720,7 +720,7 @@
     "uniqueEntryId": "e6vjhAiYsg9Jzua5t"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Moon-Viewing Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.4.0",
@@ -736,7 +736,7 @@
     "uniqueEntryId": "cs2qcLkD4RFZpJRDY"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Halloween (ready days)",
     "type": "Special event",
     "versionAdded": "1.5.0",
@@ -752,7 +752,7 @@
     "uniqueEntryId": "CkhTdh8xBcjRPmCCM"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Halloween",
     "type": "Special event",
     "versionAdded": "1.5.0",
@@ -768,14 +768,14 @@
     "uniqueEntryId": "ZYoPaw7SennvjdMqj"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Turkey Day",
     "type": "Special event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.6.0",
-    "year": 2020,
-    "datesNorthernHemisphere": "November 26",
-    "datesSouthernHemisphere": "November 26",
+    "year": 2021,
+    "datesNorthernHemisphere": "November 25",
+    "datesSouthernHemisphere": "November 25",
     "displayName": "Turkey Day",
     "eventNotes": null,
     "internalLabel": "HarvestFestival",
@@ -784,14 +784,14 @@
     "uniqueEntryId": "n3cSGsDLnJJqLC76K"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Turkey Day (shopping days)",
     "type": "Special event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.6.0",
-    "year": 2020,
-    "datesNorthernHemisphere": "November 27 – November 30",
-    "datesSouthernHemisphere": "November 27 – November 30",
+    "year": 2021,
+    "datesNorthernHemisphere": "November 26 – November 30",
+    "datesSouthernHemisphere": "November 26 – November 30",
     "displayName": "Turkey Day",
     "eventNotes": null,
     "internalLabel": "HarvestAfterTerm",
@@ -800,12 +800,12 @@
     "uniqueEntryId": "LWQHvmgWcWpx6EBfn"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Toy Day (ready days phase 1)",
     "type": "Special event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.6.0",
-    "year": 2020,
+    "year": 2021,
     "datesNorthernHemisphere": "December 1 – December 14",
     "datesSouthernHemisphere": "December 1 – December 14",
     "displayName": "Toy Day",
@@ -816,12 +816,12 @@
     "uniqueEntryId": "WwqGv6zGXSbpdW7B2"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Toy Day (ready days phase 2)",
     "type": "Special event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.6.0",
-    "year": 2020,
+    "year": 2021,
     "datesNorthernHemisphere": "December 15 – December 23",
     "datesSouthernHemisphere": "December 15 – December 23",
     "displayName": "Toy Day",
@@ -832,12 +832,12 @@
     "uniqueEntryId": "4b2C4HeZzZhtbjYo3"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Toy Day",
     "type": "Special event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.6.0",
-    "year": 2020,
+    "year": 2021,
     "datesNorthernHemisphere": "December 24",
     "datesSouthernHemisphere": "December 24",
     "displayName": "Toy Day",
@@ -848,12 +848,12 @@
     "uniqueEntryId": "8BTw75h6CYtPousz7"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Toy Day (day after)",
     "type": "Special event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.6.0",
-    "year": 2020,
+    "year": 2021,
     "datesNorthernHemisphere": "December 25",
     "datesSouthernHemisphere": "December 25",
     "displayName": "Toy Day",
@@ -864,13 +864,13 @@
     "uniqueEntryId": "WRJS7x258JZXcBhiD"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Winter Solstice (northern hemisphere)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.10.0",
     "year": 2021,
-    "datesNorthernHemisphere": "December 15 – December 21",
+    "datesNorthernHemisphere": "December 15 – December 22",
     "datesSouthernHemisphere": null,
     "displayName": "Winter Solstice",
     "eventNotes": null,
@@ -880,14 +880,14 @@
     "uniqueEntryId": "fdqSGfgLZy6xzrL49"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Summer Solstice (southern hemisphere)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
     "versionLastUpdated": "1.10.0",
     "year": 2021,
     "datesNorthernHemisphere": null,
-    "datesSouthernHemisphere": "December 15 – December 21",
+    "datesSouthernHemisphere": "December 15 – December 22",
     "displayName": "Summer Solstice",
     "eventNotes": null,
     "internalLabel": "SouthernMidwinter",
@@ -896,14 +896,14 @@
     "uniqueEntryId": "sQSJrS3vHKbtpNL2L"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Ōmisoka",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
-    "year": 2020,
-    "datesNorthernHemisphere": "December 26 – December 31",
-    "datesSouthernHemisphere": "December 26 – December 31",
+    "versionLastUpdated": "2.0.0",
+    "year": 2021,
+    "datesNorthernHemisphere": "December 22 – December 31",
+    "datesSouthernHemisphere": "December 22 – December 31",
     "displayName": "New Year's Eve",
     "eventNotes": null,
     "internalLabel": "Oomisoka",
@@ -912,14 +912,14 @@
     "uniqueEntryId": "8rWzJhnPupkFxeeE5"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Silvester",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
-    "year": 2020,
-    "datesNorthernHemisphere": "December 26 – December 31",
-    "datesSouthernHemisphere": "December 26 – December 31",
+    "versionLastUpdated": "2.0.0",
+    "year": 2021,
+    "datesNorthernHemisphere": "December 22 – December 31",
+    "datesSouthernHemisphere": "December 22 – December 31",
     "displayName": "New Year's Eve",
     "eventNotes": null,
     "internalLabel": "NewYearsEveGermany",
@@ -928,14 +928,14 @@
     "uniqueEntryId": "pg7Wus3cgYWtn4wAg"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Nochevieja",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
-    "year": 2020,
-    "datesNorthernHemisphere": "December 26 – December 31",
-    "datesSouthernHemisphere": "December 26 – December 31",
+    "versionLastUpdated": "2.0.0",
+    "year": 2021,
+    "datesNorthernHemisphere": "December 22 – December 31",
+    "datesSouthernHemisphere": "December 22 – December 31",
     "displayName": "New Year's Eve",
     "eventNotes": null,
     "internalLabel": "NewYearsEveSpain",
@@ -944,14 +944,14 @@
     "uniqueEntryId": "QgqtGLo5zitZsvcPE"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "New Year's Eve",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
-    "year": 2020,
-    "datesNorthernHemisphere": "December 26 – December 31",
-    "datesSouthernHemisphere": "December 26 – December 31",
+    "versionLastUpdated": "2.0.0",
+    "year": 2021,
+    "datesNorthernHemisphere": "December 22 – December 31",
+    "datesSouthernHemisphere": "December 22 – December 31",
     "displayName": "New Year's Eve",
     "eventNotes": null,
     "internalLabel": "NewYearsEveWorld",
@@ -960,14 +960,30 @@
     "uniqueEntryId": "cBXYqjysyynrFu7fw"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
+    "name": "New Year's Eve (Russia)",
+    "type": "Nook Shopping event",
+    "versionAdded": "1.6.0",
+    "versionLastUpdated": "2.0.0",
+    "year": 2021,
+    "datesNorthernHemisphere": "December 22 – December 31",
+    "datesSouthernHemisphere": "December 22 – December 31",
+    "displayName": "New Year's Eve",
+    "eventNotes": null,
+    "internalLabel": "RoshiaNewYear",
+    "unlockDate": 44197,
+    "unlockMethod": "NTP",
+    "uniqueEntryId": "7tSXFbSyGohRqRcAd"
+  },
+  {
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shōgatsu (1)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
+    "versionLastUpdated": "2.0.0",
     "year": 2021,
-    "datesNorthernHemisphere": "January 1 – January 15",
-    "datesSouthernHemisphere": "January 1 – January 15",
+    "datesNorthernHemisphere": "December 22 – January 5",
+    "datesSouthernHemisphere": "December 22 – January 5",
     "displayName": "New Year's Day",
     "eventNotes": null,
     "internalLabel": "RegionNewYear",
@@ -976,14 +992,14 @@
     "uniqueEntryId": "LwmgQ2WpBrBhJDDcZ"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shōgatsu (2)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
+    "versionLastUpdated": "2.0.0",
     "year": 2021,
-    "datesNorthernHemisphere": "January 1 – January 15",
-    "datesSouthernHemisphere": "January 1 – January 15",
+    "datesNorthernHemisphere": "December 22 – January 5",
+    "datesSouthernHemisphere": "December 22 – January 5",
     "displayName": "New Year's Day",
     "eventNotes": null,
     "internalLabel": "RegionNewYear2",
@@ -992,14 +1008,14 @@
     "uniqueEntryId": "Yvq5mrsjYX9HBBoN2"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shōgatsu (3)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
+    "versionLastUpdated": "2.0.0",
     "year": 2021,
-    "datesNorthernHemisphere": "January 1 – January 15",
-    "datesSouthernHemisphere": "January 1 – January 15",
+    "datesNorthernHemisphere": "December 22 – January 5",
+    "datesSouthernHemisphere": "December 22 – January 5",
     "displayName": "New Year's Day",
     "eventNotes": null,
     "internalLabel": "RegionNewYear3",
@@ -1008,46 +1024,30 @@
     "uniqueEntryId": "j6XM3Bsw5vtskwub2"
   },
   {
-    "sourceSheet": "Seasonsand Events",
-    "name": "New Year's Day (Russia)",
-    "type": "Nook Shopping event",
-    "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "January 1 – January 15",
-    "datesSouthernHemisphere": "January 1 – January 15",
-    "displayName": "New Year's Day",
-    "eventNotes": null,
-    "internalLabel": "RoshiaNewYear",
-    "unlockDate": 44197,
-    "unlockMethod": "NTP",
-    "uniqueEntryId": "7tSXFbSyGohRqRcAd"
-  },
-  {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "New Year's Day (World)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "January 1 – January 15",
-    "datesSouthernHemisphere": "January 1 – January 15",
+    "versionLastUpdated": "2.0.0",
+    "year": 2020,
+    "datesNorthernHemisphere": "December 22 – January 5",
+    "datesSouthernHemisphere": "December 22 – January 5",
     "displayName": "New Year's Day",
-    "eventNotes": null,
+    "eventNotes": "2020 only",
     "internalLabel": "WorldNewYear",
     "unlockDate": 44197,
     "unlockMethod": "NTP",
     "uniqueEntryId": "s9EY4eT28FvMq4MmR"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "New Year's Day (Korea)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
+    "versionLastUpdated": "2.0.0",
     "year": 2021,
-    "datesNorthernHemisphere": "January 1 – January 15",
-    "datesSouthernHemisphere": "January 1 – January 15",
+    "datesNorthernHemisphere": "December 22 – January 5",
+    "datesSouthernHemisphere": "December 22 – January 5",
     "displayName": "New Year's Day",
     "eventNotes": null,
     "internalLabel": "KoreaNewYear",
@@ -1056,30 +1056,30 @@
     "uniqueEntryId": "9sayQ8ZTXonPimMf2"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "New Year's Day (Asia)",
     "type": "Nook Shopping event",
     "versionAdded": "1.6.0",
-    "versionLastUpdated": "1.6.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "January 1 – January 15",
-    "datesSouthernHemisphere": "January 1 – January 15",
+    "versionLastUpdated": "2.0.0",
+    "year": 2020,
+    "datesNorthernHemisphere": "December 22 – January 5",
+    "datesSouthernHemisphere": "December 22 – January 5",
     "displayName": "New Year's Day",
-    "eventNotes": null,
+    "eventNotes": "2020 only",
     "internalLabel": "ChinaNewYear",
     "unlockDate": 44197,
     "unlockMethod": "NTP",
     "uniqueEntryId": "PnPBujYf6ztitFX7F"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Festivale (ready days)",
     "type": "Special event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "February 1 – February 14",
-    "datesSouthernHemisphere": "February 1 – February 14",
+    "year": 2022,
+    "datesNorthernHemisphere": "February 1 – February 27",
+    "datesSouthernHemisphere": "February 1 – February 27",
     "displayName": "Festivale",
     "eventNotes": null,
     "internalLabel": "Carnival",
@@ -1088,14 +1088,14 @@
     "uniqueEntryId": "F7bzc2pLevmboA8DF"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Festivale",
     "type": "Special event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "February 15",
-    "datesSouthernHemisphere": "February 15",
+    "year": 2022,
+    "datesNorthernHemisphere": "February 28",
+    "datesSouthernHemisphere": "February 28",
     "displayName": "Festivale",
     "eventNotes": null,
     "internalLabel": "Carnival",
@@ -1104,12 +1104,12 @@
     "uniqueEntryId": "FvssW626ddQ3aLQFd"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Valentine's Day",
     "type": "Special event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "February 14",
     "datesSouthernHemisphere": "February 14",
     "displayName": "Valentine's Day",
@@ -1120,12 +1120,12 @@
     "uniqueEntryId": "wFQawZsWKLnDfSjjN"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Groundhog Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "January 25 – February 2",
     "datesSouthernHemisphere": "January 25 – February 2",
     "displayName": "Groundhog Day",
@@ -1136,12 +1136,12 @@
     "uniqueEntryId": "y9Bn4GYZPnMEoBgfB"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Setsubun",
     "type": "Nook Shopping event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "January 25 – February 3",
     "datesSouthernHemisphere": "January 25 – February 3",
     "displayName": "Setsubun",
@@ -1152,7 +1152,7 @@
     "uniqueEntryId": "JanWTpqgkvHZzetxk"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Setsubun (Able Sisters)",
     "type": "Shopping season",
     "versionAdded": "1.7.0",
@@ -1168,12 +1168,12 @@
     "uniqueEntryId": "kFoAs7RfGYzw62LLt"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Big Game Celebration (1)",
     "type": "Nook Shopping event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "January 15 – February 15",
     "datesSouthernHemisphere": "January 15 – February 15",
     "displayName": "Big Game Celebration",
@@ -1184,12 +1184,12 @@
     "uniqueEntryId": "cxbGFKdkmqFsskvuj"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Big Game Celebration (2)",
     "type": "Nook Shopping event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "January 15 – February 15",
     "datesSouthernHemisphere": "January 15 – February 15",
     "displayName": "Big Game Celebration",
@@ -1200,12 +1200,12 @@
     "uniqueEntryId": "EPBKFGfCaW9bEAZan"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Valentine's Day (Nook Shopping)",
     "type": "Nook Shopping event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "February 1 – February 14",
     "datesSouthernHemisphere": "February 1 – February 14",
     "displayName": "Valentine's Day",
@@ -1216,14 +1216,14 @@
     "uniqueEntryId": "scq9e4MNaxBDnzdsf"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Lunar New Year",
     "type": "Nook Shopping event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "February 10 – February 17",
-    "datesSouthernHemisphere": "February 10 – February 17",
+    "year": 2022,
+    "datesNorthernHemisphere": "January 30 – February 6",
+    "datesSouthernHemisphere": "January 30 – February 6",
     "displayName": "Lunar New Year",
     "eventNotes": null,
     "internalLabel": "RegionLunarNewYearAsia",
@@ -1232,14 +1232,14 @@
     "uniqueEntryId": "GrhL6oc4Fikexi9mE"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Seollal",
     "type": "Nook Shopping event",
     "versionAdded": "1.7.0",
     "versionLastUpdated": "1.7.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "February 10 – February 17",
-    "datesSouthernHemisphere": "February 10 – February 17",
+    "year": 2022,
+    "datesNorthernHemisphere": "January 30 – February 6",
+    "datesSouthernHemisphere": "January 30 – February 6",
     "displayName": "Lunar New Year",
     "eventNotes": null,
     "internalLabel": "RegionLunarNewYearKR",
@@ -1248,14 +1248,14 @@
     "uniqueEntryId": "i36Hq5eemLtYtg8x4"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Hinamatsuri",
     "type": "Nook Shopping event",
     "versionAdded": "1.8.0",
-    "versionLastUpdated": "1.8.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "February 25 – March 3",
-    "datesSouthernHemisphere": "February 25 – March 3",
+    "versionLastUpdated": "2.0.0",
+    "year": 2022,
+    "datesNorthernHemisphere": "February 22 – March 3",
+    "datesSouthernHemisphere": "February 22 – March 3",
     "displayName": "Hinamatsuri",
     "eventNotes": null,
     "internalLabel": "RegionHinamatsuri",
@@ -1264,7 +1264,7 @@
     "uniqueEntryId": "nca8hecauJyrMuTe6"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Super Mario Bros.",
     "type": "Nook Shopping event",
     "versionAdded": "1.8.0",
@@ -1280,12 +1280,12 @@
     "uniqueEntryId": "2TaNitnLqDtXr9SQK"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "π Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.8.0",
     "versionLastUpdated": "1.8.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "March 1 – March 14",
     "datesSouthernHemisphere": "March 1 – March 14",
     "displayName": "π Day",
@@ -1296,12 +1296,12 @@
     "uniqueEntryId": "atSCGTvcdHq2EKNfy"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shamrock Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.8.0",
     "versionLastUpdated": "1.8.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "March 10 – March 17",
     "datesSouthernHemisphere": "March 10 – March 17",
     "displayName": "Shamrock Day",
@@ -1312,7 +1312,7 @@
     "uniqueEntryId": "zZcYX6kijYEszM3u8"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shamrock Day (Able Sisters)",
     "type": "Shopping season",
     "versionAdded": "1.8.0",
@@ -1328,12 +1328,12 @@
     "uniqueEntryId": "CQeFs5yEfzL3kFdhp"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "April Fools' Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.9.0",
     "versionLastUpdated": "1.9.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "March 26 – April 1",
     "datesSouthernHemisphere": "March 26 – April 1",
     "displayName": "April Fools' Day",
@@ -1344,12 +1344,12 @@
     "uniqueEntryId": "PQbKAS4Jt7mWpBBxx"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Singmogil",
     "type": "Nook Shopping event",
     "versionAdded": "1.9.0",
     "versionLastUpdated": "1.9.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "April 1 – April 10",
     "datesSouthernHemisphere": "April 1 – April 10",
     "displayName": "Singmogil",
@@ -1360,12 +1360,12 @@
     "uniqueEntryId": "33Y77jAzMCTuwH2Dq"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Prom (1)",
     "type": "Nook Shopping event",
     "versionAdded": "1.9.0",
     "versionLastUpdated": "1.9.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "April 1 – April 30",
     "datesSouthernHemisphere": "April 1 – April 30",
     "displayName": "Prom",
@@ -1376,12 +1376,12 @@
     "uniqueEntryId": "GEpYcBtjkvLTEahT4"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Prom (2)",
     "type": "Nook Shopping event",
     "versionAdded": "1.9.0",
     "versionLastUpdated": "1.9.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "April 1 – April 30",
     "datesSouthernHemisphere": "April 1 – April 30",
     "displayName": "Prom",
@@ -1392,7 +1392,7 @@
     "uniqueEntryId": "LQZH8ucChbLZn79gS"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Prom (Able Sisters)",
     "type": "Shopping season",
     "versionAdded": "1.9.0",
@@ -1408,12 +1408,12 @@
     "uniqueEntryId": "9cNxPyHeSSrSRFfTw"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Nature Day (Nook Shopping)",
     "type": "Nook Shopping event",
     "versionAdded": "1.9.0",
     "versionLastUpdated": "1.9.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "April 15 – April 22",
     "datesSouthernHemisphere": "April 15 – April 22",
     "displayName": "Nature Day",
@@ -1424,12 +1424,12 @@
     "uniqueEntryId": "SwxjFbKbQzaP5t4xC"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Children's Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "April 26 – May 5",
     "datesSouthernHemisphere": "April 26 – May 5",
     "displayName": "Children's Day",
@@ -1440,14 +1440,14 @@
     "uniqueEntryId": "SjMjhNmGeivSwt2pp"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Cheese Rolling",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "May 22 – May 31",
-    "datesSouthernHemisphere": "May 22 – May 31",
+    "year": 2022,
+    "datesNorthernHemisphere": "May 21 – May 30",
+    "datesSouthernHemisphere": "May 21 – May 30",
     "displayName": "Cheese Rolling",
     "eventNotes": null,
     "internalLabel": "RegionCheeseFestival",
@@ -1456,12 +1456,12 @@
     "uniqueEntryId": "AYctvhKBkndmfmZ2p"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Wedding Season (Nook Shopping 1)",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "June 1 – June 30",
     "datesSouthernHemisphere": "June 1 – June 30",
     "displayName": "Wedding Season",
@@ -1472,12 +1472,12 @@
     "uniqueEntryId": "wDzvBE2Q4yJmT7qDY"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Wedding Season (Nook Shopping 2)",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "June 1 – June 30",
     "datesSouthernHemisphere": "June 1 – June 30",
     "displayName": "Wedding Season",
@@ -1488,7 +1488,7 @@
     "uniqueEntryId": "MeQLG3c9k69Ecc58K"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Wedding Season (Able Sisters)",
     "type": "Shopping season",
     "versionAdded": "1.10.0",
@@ -1504,12 +1504,12 @@
     "uniqueEntryId": "BvxzZbPEfDyvEcqTb"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Father's Day (2)",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "June 1 – June 30",
     "datesSouthernHemisphere": "June 1 – June 30",
     "displayName": "Father's Day",
@@ -1520,14 +1520,14 @@
     "uniqueEntryId": "7gNprMP3YrXc88xLh"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Dano Festival",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "June 5 – June 14",
-    "datesSouthernHemisphere": "June 5 – June 14",
+    "year": 2022,
+    "datesNorthernHemisphere": "May 25 – June 3",
+    "datesSouthernHemisphere": "May 25 – June 3",
     "displayName": "Dano Festival",
     "eventNotes": null,
     "internalLabel": "RegionDragonBoatFestival",
@@ -1536,14 +1536,14 @@
     "uniqueEntryId": "8EqYBr8EYEuHfB32B"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Dragon Boat Festival",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "June 5 – June 14",
-    "datesSouthernHemisphere": "June 5 – June 14",
+    "year": 2022,
+    "datesNorthernHemisphere": "May 25 – June 3",
+    "datesSouthernHemisphere": "May 25 – June 3",
     "displayName": "Dragon Boat Festival",
     "eventNotes": null,
     "internalLabel": "RegionDragonBoatFestivalCh",
@@ -1552,14 +1552,14 @@
     "uniqueEntryId": "HjsPpcPLeu3w5Puce"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Marine Day",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
-    "versionLastUpdated": "1.10.0",
-    "year": 2021,
-    "datesNorthernHemisphere": "July 8 – July 22",
-    "datesSouthernHemisphere": "July 8 – July 22",
+    "versionLastUpdated": "2.0.0",
+    "year": 2022,
+    "datesNorthernHemisphere": "July 9 – July 18",
+    "datesSouthernHemisphere": "July 9 – July 18",
     "displayName": "Marine Day",
     "eventNotes": null,
     "internalLabel": "RegionMarineDay",
@@ -1568,12 +1568,12 @@
     "uniqueEntryId": "pjck9cqk9GGFpZMn2"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Le 14 juillet",
     "type": "Nook Shopping event",
     "versionAdded": "1.10.0",
     "versionLastUpdated": "1.10.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "July 10 – July 20",
     "datesSouthernHemisphere": "July 10 – July 20",
     "displayName": "Le 14 juillet",
@@ -1584,12 +1584,12 @@
     "uniqueEntryId": "4wBGnBDm6JWBgjszG"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Obon",
     "type": "Nook Shopping event",
     "versionAdded": "1.11.0",
     "versionLastUpdated": "1.11.0",
-    "year": 2021,
+    "year": 2022,
     "datesNorthernHemisphere": "August 10 – August 16",
     "datesSouthernHemisphere": "August 10 – August 16",
     "displayName": "Obon",
@@ -1600,7 +1600,7 @@
     "uniqueEntryId": "rAoT6F3hWekzpQdjA"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Moon-Viewing Day (2)",
     "type": "Nook Shopping event",
     "versionAdded": "1.11.0",
@@ -1616,7 +1616,7 @@
     "uniqueEntryId": "Qfy66Lw5PgS2pZbFL"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Moon-Viewing Day (3)",
     "type": "Nook Shopping event",
     "versionAdded": "1.11.0",
@@ -1632,7 +1632,7 @@
     "uniqueEntryId": "QX2En6AWJRgfajFBT"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Chuseok",
     "type": "Nook Shopping event",
     "versionAdded": "1.11.0",
@@ -1648,7 +1648,7 @@
     "uniqueEntryId": "iB5QCG2QuFaNbqDvW"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Day of the Dead",
     "type": "Nook Shopping event",
     "versionAdded": "1.11.0",
@@ -1664,7 +1664,7 @@
     "uniqueEntryId": "6vXPuWuAZkoYCiDXW"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Lantern Festival",
     "type": "Nook Shopping event",
     "versionAdded": "1.11.0",
@@ -1680,7 +1680,7 @@
     "uniqueEntryId": "K3hGnvCe4nBbG8p2P"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shichi-Go-San",
     "type": "Nook Shopping event",
     "versionAdded": "1.11.0",
@@ -1696,7 +1696,7 @@
     "uniqueEntryId": "wQ8RQLDSztz2tuWFy"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Nook Friday",
     "type": "Special event",
     "versionAdded": "2.0.0",
@@ -1712,7 +1712,7 @@
     "uniqueEntryId": "dHGH2naRLRkyjpBAE"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Winter Solstice (northern hemisphere) (2)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1728,7 +1728,7 @@
     "uniqueEntryId": "bDMkreAeC8bmZE7Zw"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Winter Solstice (northern hemisphere) (3)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1744,7 +1744,7 @@
     "uniqueEntryId": "LEEjBzFMK6yu2NcGx"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Summer Solstice (southern hemisphere) (2)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1760,7 +1760,7 @@
     "uniqueEntryId": "pwnzGv4f4MLk4v3NW"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "New Year's Day",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1776,7 +1776,7 @@
     "uniqueEntryId": "FBnwCSXu9RdX9iF7c"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shōgatsu (4)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1792,7 +1792,7 @@
     "uniqueEntryId": "GZZnj2cniqWiLPhtA"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Shōgatsu (5)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1808,7 +1808,7 @@
     "uniqueEntryId": "Ez6gGyL4iw49Zx89h"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Nanakusa Gayu",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1824,14 +1824,14 @@
     "uniqueEntryId": "fuJPRDHEAgts4DSvY"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Carnival of Venice",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
     "versionLastUpdated": "2.0.0",
     "year": 2022,
-    "datesNorthernHemisphere": "January 25 – February 16",
-    "datesSouthernHemisphere": "January 25 – February 16",
+    "datesNorthernHemisphere": "February 7 – March 1",
+    "datesSouthernHemisphere": "February 7 – March 1",
     "displayName": "Carnival of Venice",
     "eventNotes": null,
     "internalLabel": "VeniceCarnival",
@@ -1840,7 +1840,7 @@
     "uniqueEntryId": "5HjtdvhCoBqkxCDoe"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Summer Solstice (northern hemisphere) (2)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1856,7 +1856,7 @@
     "uniqueEntryId": "NdBaWvxXFMMNYhtwR"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Winter Solstice (southern hemisphere) (2)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1872,7 +1872,7 @@
     "uniqueEntryId": "SrfPNEMWZx4akAJsS"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Winter Solstice (southern hemisphere) (3)",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
@@ -1888,7 +1888,7 @@
     "uniqueEntryId": "9pYYiS49xHgXuXrrP"
   },
   {
-    "sourceSheet": "Seasonsand Events",
+    "sourceSheet": "SeasonsAndEvents",
     "name": "Tomato Festival",
     "type": "Nook Shopping event",
     "versionAdded": "2.0.0",
