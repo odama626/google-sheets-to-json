@@ -139,7 +139,7 @@ export interface Item {
     personality?:             Personality;
     subtype?:                 Subtype;
     hobby?:                   Hobby;
-    birthday?:                number | string;
+    birthday?:                string;
     catchphrase?:             string;
     favoriteSong?:            string;
     favoriteSaying?:          string;
@@ -204,6 +204,7 @@ export enum Catalog {
     ForSale = "For sale",
     NotForSale = "Not for sale",
     NotInCatalog = "Not in catalog",
+    Seasonal = "Seasonal",
 }
 
 export enum CatchDifficulty {
@@ -272,6 +273,7 @@ export enum ExchangeCurrency {
     HeartCrystals = "Heart Crystals",
     NookMiles = "Nook Miles",
     NookPoints = "Nook Points",
+    Poki = "Poki",
 }
 
 export enum Gender {
@@ -467,7 +469,7 @@ export enum SourceSheet {
     Shoes = "Shoes",
     Socks = "Socks",
     SpecialNpcs = "SpecialNpcs",
-    ToolsGoods = "Tools/Goods",
+    ToolsGoods = "ToolsGoods",
     Tops = "Tops",
     Umbrellas = "Umbrellas",
     Villagers = "Villagers",
@@ -642,6 +644,7 @@ export enum Source {
     Jingle = "Jingle",
     JollyReddSTreasureTrawler = "Jolly Redd's Treasure Trawler",
     KKConcert = "K.K. concert",
+    KappN = "Kapp'n",
     KappNIslands = "Kapp'n islands",
     KatrinaSCleansingService = "Katrina's Cleansing Service",
     Kicks = "Kicks",
@@ -655,7 +658,6 @@ export enum Source {
     MayDayTour = "May Day Tour",
     Niko = "Niko",
     Nintendo = "Nintendo",
-    None = "None",
     NookLink = "NookLink",
     NookMilesRedemption = "Nook Miles Redemption",
     NookSCranny = "Nook's Cranny",

@@ -141,7 +141,7 @@ export interface Item {
     personality?: Personality;
     subtype?: Subtype;
     hobby?: Hobby;
-    birthday?: number | string;
+    birthday?: string;
     catchphrase?: string;
     favoriteSong?: string;
     favoriteSaying?: string;
@@ -201,7 +201,8 @@ export declare enum Season {
 export declare enum Catalog {
     ForSale = "For sale",
     NotForSale = "Not for sale",
-    NotInCatalog = "Not in catalog"
+    NotInCatalog = "Not in catalog",
+    Seasonal = "Seasonal"
 }
 export declare enum CatchDifficulty {
     Easy = "Easy",
@@ -263,7 +264,8 @@ export declare enum ExchangeCurrency {
     Bells = "Bells",
     HeartCrystals = "Heart Crystals",
     NookMiles = "Nook Miles",
-    NookPoints = "Nook Points"
+    NookPoints = "Nook Points",
+    Poki = "Poki"
 }
 export declare enum Gender {
     Female = "Female",
@@ -443,7 +445,7 @@ export declare enum SourceSheet {
     Shoes = "Shoes",
     Socks = "Socks",
     SpecialNpcs = "SpecialNpcs",
-    ToolsGoods = "Tools/Goods",
+    ToolsGoods = "ToolsGoods",
     Tops = "Tops",
     Umbrellas = "Umbrellas",
     Villagers = "Villagers",
@@ -611,6 +613,7 @@ export declare enum Source {
     Jingle = "Jingle",
     JollyReddSTreasureTrawler = "Jolly Redd's Treasure Trawler",
     KKConcert = "K.K. concert",
+    KappN = "Kapp'n",
     KappNIslands = "Kapp'n islands",
     KatrinaSCleansingService = "Katrina's Cleansing Service",
     Kicks = "Kicks",
@@ -624,7 +627,6 @@ export declare enum Source {
     MayDayTour = "May Day Tour",
     Niko = "Niko",
     Nintendo = "Nintendo",
-    None = "None",
     NookLink = "NookLink",
     NookMilesRedemption = "Nook Miles Redemption",
     NookSCranny = "Nook's Cranny",

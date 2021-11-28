@@ -140,12 +140,6 @@ export async function loadData(
   //
   // process.exit(0);
 
-  try {
-    const file = fs.readFileSync(cacheFile);
-
-    return JSON.parse(file.toString());
-  } catch (e) {} // ignored
-
   let data: ItemData = [];
 
   for (const sheetName of sheetNames) {
@@ -167,6 +161,8 @@ export async function loadData(
       newSheetName = 'SpecialNpcs';
     } else if (newSheetName == 'Seasonsand Events') {
       newSheetName = 'SeasonsAndEvents';
+    } else if (newSheetName == 'Tools/Goods') {
+      newSheetName = 'ToolsGoods';
     }
 
     for (const row of rows) {
