@@ -10,5 +10,6 @@ var VersionAdded;
     VersionAdded["The100"] = "1.0.0";
     VersionAdded["The120"] = "1.2.0";
     VersionAdded["The130"] = "1.3.0";
+    VersionAdded["The200"] = "2.0.0";
 })(VersionAdded = exports.VersionAdded || (exports.VersionAdded = {}));
 //# sourceMappingURL=achievements.js.map

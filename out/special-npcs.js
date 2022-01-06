@@ -8,6 +8,6 @@ var Gender;
 })(Gender = exports.Gender || (exports.Gender = {}));
 var SourceSheet;
 (function (SourceSheet) {
-    SourceSheet["SpecialNPCS"] = "Special NPCs";
+    SourceSheet["SpecialNpcs"] = "SpecialNpcs";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
 //# sourceMappingURL=special-npcs.js.map

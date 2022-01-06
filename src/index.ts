@@ -11,7 +11,7 @@ import {DateTime} from 'luxon';
 // dayjs.extend(utc);
 // dayjs.extend(customParseFormat);
 
-const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
+const SHEET_ID = '13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4';
 
 const OUTPUT = 'out';
 
@@ -19,7 +19,10 @@ const SHEET_GROUPS = {
   items: [
     'Housewares',
     'Miscellaneous',
+    // 'Food',
     'Wall-mounted',
+    'Ceiling Decor',
+    'Interior Structures',
     'Wallpaper',
     'Floors',
     'Rugs',
@@ -40,7 +43,9 @@ const SHEET_GROUPS = {
     'Music',
     'Fossils',
     'Artwork',
+    'Gyroids',
     'Other',
+    'Paradise Planning',
   ],
   creatures: ['Insects', 'Fish', 'Sea Creatures'],
   construction: ['Construction'],
@@ -102,9 +107,9 @@ export async function main(auth: OAuth2Client) {
   const all = [];
 
   for (const [key] of Object.entries(SHEET_GROUPS)) {
-    if (key === 'achievements' || key === 'reactions') {
-      continue;
-    }
+    // if (key === 'achievements' || key === 'reactions') {
+    //   continue;
+    // }
 
     const data = readJSON(`${OUTPUT}/${key}.json`);
 
@@ -135,12 +140,6 @@ export async function loadData(
   //
   // process.exit(0);
 
-  try {
-    const file = fs.readFileSync(cacheFile);
-
-    return JSON.parse(file.toString());
-  } catch (e) {} // ignored
-
   let data: ItemData = [];
 
   for (const sheetName of sheetNames) {
@@ -152,8 +151,22 @@ export async function loadData(
 
     const [header, ...rows] = response.data.values!;
 
+    // keyName reset
+    let newSheetName = sheetName.replace(' ', '');
+    newSheetName = newSheetName.replace('-', '');
+
+    if (newSheetName == 'Wallmounted') {
+      newSheetName = 'WallMounted';
+    } else if (newSheetName == 'SpecialNPCs') {
+      newSheetName = 'SpecialNpcs';
+    } else if (newSheetName == 'Seasonsand Events') {
+      newSheetName = 'SeasonsAndEvents';
+    } else if (newSheetName == 'Tools/Goods') {
+      newSheetName = 'ToolsGoods';
+    }
+
     for (const row of rows) {
-      data.push({SourceSheet: sheetName, ...zipObject(header, row)});
+      data.push({SourceSheet: newSheetName, ...zipObject(header, row)});
     }
   }
 
@@ -172,7 +185,7 @@ const valueFormatters: ValueFormatters = {
     input.includes('\n')
       ? input.split('\n')
       : input.split(/[;,]/).map(i => i.trim()),
-  birthday: normaliseBirthday,
+  // birthday: normaliseBirthday,
 };
 
 const BDAY_FORMAT_IN = 'H/d';
@@ -223,6 +236,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       }
 
       if (valueFormatter) {
+        
         try {
           value = valueFormatter(value, item);
         } catch (e) {
