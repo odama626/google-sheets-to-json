@@ -61,7 +61,6 @@ export interface Item {
     category?: Category | null;
     realArtworkTitle?: string;
     artist?: string;
-    soundType?: string;
     inventoryFilename?: string;
     storageFilename?: string;
     request?: string;
@@ -69,11 +68,31 @@ export interface Item {
     song?: string;
     furnitureList?: string;
     furnitureNameList?: string;
+    image?: string;
+    genuine?: boolean;
+    buy?: number | null;
+    sell?: number | null;
+    color1?: Color;
+    color2?: Color;
+    source?: string[];
+    hhaConcept1?: HhaConcept1 | null;
+    hhaConcept2?: HhaConcept1 | null;
+    hhaSeries?: null;
+    hhaSet?: null;
+    filename?: string;
+    internalId?: number | string;
+    uniqueEntryId?: string;
+    variation?: null | string;
+    bodyTitle?: BodyTitle | null;
+    pattern?: null;
+    bodyCustomize?: boolean;
+    kitCost?: number | null;
+    soundType?: SoundType;
+    variantId?: VariantID | null;
     num?: number;
     iconImage?: null | string;
     critterpediaImage?: string;
     furnitureImage?: string;
-    sell?: number | null;
     whereHow?: string;
     weather?: Weather;
     totalCatchesToUnlock?: number;
@@ -82,8 +101,6 @@ export interface Item {
     iconFilename?: null | string;
     critterpediaFilename?: string;
     furnitureFilename?: string;
-    internalId?: number | string;
-    uniqueEntryId?: string;
     colors?: Color[];
     specialSell?: number;
     activeMonths?: ActiveMonths;
@@ -91,10 +108,6 @@ export interface Item {
     catchDifficulty?: CatchDifficulty;
     vision?: Vision;
     movementSpeed?: MovementSpeed;
-    image?: string;
-    buy?: number | null;
-    source?: string[];
-    filename?: string;
     imageSh?: null | string;
     recipesToUnlock?: number;
     craftedItemInternalId?: number;
@@ -109,32 +122,8 @@ export interface Item {
     achievementCriteria?: string;
     internalName?: string;
     internalCategory?: string;
-    numOfTiers?: number | string;
-    tier1?: number | string;
-    tier2?: number | null | string;
-    tier3?: number | null | string;
-    tier4?: number | null | string;
-    tier5?: number | null | string;
-    tier6?: null | string;
-    tier1Reward?: number | string;
-    tier2Reward?: number | null | string;
-    tier3Reward?: number | null | string;
-    tier4Reward?: number | null | string;
-    tier5Reward?: number | null | string;
-    tier6Reward?: null | string;
-    tier1Modifier?: string;
-    tier1Noun?: string;
-    tier2Modifier?: null | string;
-    tier2Noun?: null | string;
-    tier3Modifier?: null | string;
-    tier3Noun?: null | string;
-    tier4Modifier?: null | string;
-    tier4Noun?: null | string;
-    tier5Modifier?: null | string;
-    tier5Noun?: null | string;
-    tier6Modifier?: null | string;
-    tier6Noun?: null | string;
     sequential?: boolean;
+    tiers?: Tier[];
     photoImage?: null | string;
     houseImage?: null | string;
     species?: string;
@@ -197,6 +186,110 @@ export declare enum Season {
     Spring = "spring",
     Summer = "summer",
     Winter = "winter"
+}
+export declare enum BodyTitle {
+    Art = "Art",
+    BallType = "Ball type",
+    Bamboo = "Bamboo",
+    BaseColor = "Base color",
+    Beans = "Beans",
+    BeverageColor = "Beverage color",
+    BladeColor = "Blade color",
+    BlockColor = "Block color",
+    BoardMarkings = "Board markings",
+    BodyColor = "Body color",
+    BottleColor = "Bottle color",
+    BoxColor = "Box color",
+    BrickColor = "Brick color",
+    BucketColor = "Bucket color",
+    BuntingColor = "Bunting color",
+    BurnerColor = "Burner color",
+    Can = "Can",
+    CandleColor = "Candle color",
+    ChairColor = "Chair color",
+    ChinaColor = "China color",
+    Color = "Color",
+    Condition = "Condition",
+    ConfettiColor = "Confetti color",
+    ContentColor = "Content color",
+    Contents = "Contents",
+    CordColor = "Cord color",
+    CoverDesign = "Cover design",
+    Creation = "Creation",
+    CupColor = "Cup color",
+    CurtainRod = "Curtain rod",
+    Decorations = "Decorations",
+    Design = "Design",
+    Fabric = "Fabric",
+    FlameColor = "Flame color",
+    Flavor = "Flavor",
+    Flavors = "Flavors",
+    FlowerColor = "Flower color",
+    Flowers = "Flowers",
+    Food = "Food",
+    Frame = "Frame",
+    FrameColor = "Frame color",
+    FruitColor = "Fruit color",
+    Genre = "Genre",
+    Hairstyle = "Hairstyle",
+    Hanger = "Hanger",
+    HangerColor = "Hanger color",
+    HayCondition = "Hay condition",
+    HolderColor = "Holder color",
+    Illumination = "Illumination",
+    JoyCon = "Joy-Con",
+    KimonoPattern = "Kimono pattern",
+    KnitCapColor = "Knit-cap color",
+    LabelColor = "Label color",
+    Leaves = "Leaves",
+    LidSeatColor = "Lid & seat color",
+    LightColor = "Light color",
+    Logo = "Logo",
+    LumberType = "Lumber type",
+    MakeupColor = "Makeup color",
+    MapCenter = "Map center",
+    MatColor = "Mat color",
+    MetalColor = "Metal color",
+    MushroomType = "Mushroom type",
+    Name = "Name",
+    Navigation = "Navigation",
+    NutColor = "Nut color",
+    PaintColor = "Paint color",
+    PaintColors = "Paint colors",
+    Pattern = "Pattern",
+    PlanterColor = "Planter color",
+    Plants = "Plants",
+    PlateColor = "Plate color",
+    PoleColor = "Pole color",
+    Poles = "Poles",
+    PumpkinColor = "Pumpkin color",
+    RaceCarColors = "Race-car colors",
+    RoofColor = "Roof color",
+    RoofTileColor = "Roof-tile color",
+    Scent = "Scent",
+    ScreenDesign = "Screen design",
+    Season = "Season",
+    SeatColor = "Seat color",
+    ShadeColor = "Shade color",
+    ShakerColor = "Shaker color",
+    ShellColor = "Shell color",
+    Sign = "Sign",
+    SignDesign = "Sign design",
+    StandColor = "Stand color",
+    Stone = "Stone",
+    Style = "Style",
+    SurfaceColor = "Surface color",
+    TableColor = "Table color",
+    Tableware = "Tableware",
+    TapeType = "Tape type",
+    Theme = "Theme",
+    TopCloth = "Top cloth",
+    TracingTableColor = "Tracing-table color",
+    Tray = "Tray",
+    TrayColor = "Tray color",
+    Variation = "Variation",
+    WagonColor = "Wagon color",
+    WreathColor = "Wreath color"
 }
 export declare enum Catalog {
     ForSale = "For sale",
@@ -291,6 +384,54 @@ export declare enum HhaCategory {
     Trash = "Trash",
     Tv = "TV"
 }
+export declare enum HhaConcept1 {
+    AmusementPark = "amusement park",
+    Ancient = "ancient",
+    ApparelShop = "apparel shop",
+    Arcade = "arcade",
+    Bathroom = "bathroom",
+    Café = "caf\u00E9",
+    ChildSRoom = "child's room",
+    CityLife = "city life",
+    Concert = "concert",
+    ConstructionSite = "construction site",
+    Den = "den",
+    European = "European",
+    Expensive = "expensive",
+    Facility = "facility",
+    Fancy = "fancy",
+    Fantasy = "fantasy",
+    Fitness = "fitness",
+    FreezingCold = "freezing cold",
+    Garden = "garden",
+    Harmonious = "harmonious",
+    Heritage = "heritage",
+    Horror = "horror",
+    Hospital = "hospital",
+    Kitchen = "kitchen",
+    Lab = "lab",
+    LivingRoom = "living room",
+    Local = "local",
+    Music = "music",
+    Nature = "nature",
+    Ocean = "ocean",
+    Office = "office",
+    Outdoors = "outdoors",
+    Park = "park",
+    Party = "party",
+    PublicBath = "public bath",
+    Resort = "resort",
+    Restaurant = "restaurant",
+    Retro = "retro",
+    School = "school",
+    SciFi = "sci-fi",
+    Shop = "shop",
+    Space = "space",
+    Sports = "sports",
+    Stylish = "stylish",
+    Supermarket = "supermarket",
+    Workshop = "workshop"
+}
 export declare enum Hobby {
     Education = "Education",
     Fashion = "Fashion",
@@ -307,6 +448,7 @@ export declare enum InteractEnum {
     MusicPlayer = "Music Player",
     MusicalInstrument = "Musical Instrument",
     Storage = "Storage",
+    Toilet = "Toilet",
     Trash = "Trash",
     Tv = "TV",
     Wardrobe = "Wardrobe",
@@ -411,6 +553,14 @@ export declare enum Size {
     The4X4 = "4x4",
     The5X5 = "5x5"
 }
+export declare enum SoundType {
+    Crash = "Crash",
+    DrumSet = "Drum set",
+    HiHat = "Hi-hat",
+    Kick = "Kick",
+    Melody = "Melody",
+    Snare = "Snare"
+}
 export declare enum SourceSheet {
     Accessories = "Accessories",
     Achievements = "Achievements",
@@ -464,11 +614,83 @@ export declare enum Subtype {
     A = "A",
     B = "B"
 }
+export interface Tier {
+    qty: number;
+    reward: number;
+    modifier: string;
+    Noun: string;
+}
 export declare enum UnlockMethodEnum {
     BCATA = "BCAT (a)",
     BCATB = "BCAT (b)",
     BCATC = "BCAT (c)",
     NTP = "NTP"
+}
+export declare enum VariantID {
+    The0_0 = "0_0",
+    The0_1 = "0_1",
+    The0_2 = "0_2",
+    The0_3 = "0_3",
+    The0_4 = "0_4",
+    The0_5 = "0_5",
+    The0_6 = "0_6",
+    The0_7 = "0_7",
+    The1_0 = "1_0",
+    The1_1 = "1_1",
+    The1_2 = "1_2",
+    The1_3 = "1_3",
+    The1_4 = "1_4",
+    The1_5 = "1_5",
+    The1_6 = "1_6",
+    The1_7 = "1_7",
+    The2_0 = "2_0",
+    The2_1 = "2_1",
+    The2_2 = "2_2",
+    The2_3 = "2_3",
+    The2_4 = "2_4",
+    The2_5 = "2_5",
+    The2_6 = "2_6",
+    The2_7 = "2_7",
+    The3_0 = "3_0",
+    The3_1 = "3_1",
+    The3_2 = "3_2",
+    The3_3 = "3_3",
+    The3_4 = "3_4",
+    The3_5 = "3_5",
+    The3_6 = "3_6",
+    The3_7 = "3_7",
+    The4_0 = "4_0",
+    The4_1 = "4_1",
+    The4_2 = "4_2",
+    The4_3 = "4_3",
+    The4_4 = "4_4",
+    The4_5 = "4_5",
+    The4_6 = "4_6",
+    The4_7 = "4_7",
+    The5_0 = "5_0",
+    The5_1 = "5_1",
+    The5_2 = "5_2",
+    The5_3 = "5_3",
+    The5_4 = "5_4",
+    The5_5 = "5_5",
+    The5_6 = "5_6",
+    The5_7 = "5_7",
+    The6_0 = "6_0",
+    The6_1 = "6_1",
+    The6_2 = "6_2",
+    The6_3 = "6_3",
+    The6_4 = "6_4",
+    The6_5 = "6_5",
+    The6_6 = "6_6",
+    The6_7 = "6_7",
+    The7_0 = "7_0",
+    The7_1 = "7_1",
+    The7_2 = "7_2",
+    The7_3 = "7_3",
+    The7_4 = "7_4",
+    The7_5 = "7_5",
+    The7_6 = "7_6",
+    The7_7 = "7_7"
 }
 export interface Variant {
     image?: string;
@@ -479,7 +701,7 @@ export interface Variant {
     internalId?: number;
     buy?: number;
     sell?: number | null;
-    themes: Theme[];
+    themes: HhaConcept1[];
     variation?: number | null | string;
     variantId?: VariantID | null;
     bodyCustomize?: boolean;
@@ -492,50 +714,6 @@ export interface Variant {
     albumImage?: null | string;
     genuine?: boolean;
     inventoryImage?: null | string;
-}
-export declare enum BodyTitle {
-    Art = "Art",
-    Bamboo = "Bamboo",
-    BlockColor = "Block color",
-    BrickColor = "Brick color",
-    Can = "Can",
-    Color = "Color",
-    Condition = "Condition",
-    ContentColor = "Content color",
-    CoverDesign = "Cover design",
-    Creation = "Creation",
-    Decorations = "Decorations",
-    Design = "Design",
-    Flavor = "Flavor",
-    FlowerColor = "Flower color",
-    Food = "Food",
-    Frame = "Frame",
-    FruitColor = "Fruit color",
-    Genre = "Genre",
-    HangerColor = "Hanger color",
-    HayCondition = "Hay condition",
-    Illumination = "Illumination",
-    JoyCon = "Joy-Con",
-    KnitCapColor = "Knit-cap color",
-    LightColor = "Light color",
-    LumberType = "Lumber type",
-    MapCenter = "Map center",
-    MushroomType = "Mushroom type",
-    Name = "Name",
-    Navigation = "Navigation",
-    NutColor = "Nut color",
-    PaintColor = "Paint color",
-    PlateColor = "Plate color",
-    PumpkinColor = "Pumpkin color",
-    RoofTileColor = "Roof-tile color",
-    Season = "Season",
-    ShellColor = "Shell color",
-    SignDesign = "Sign design",
-    StandColor = "Stand color",
-    Stone = "Stone",
-    Style = "Style",
-    Theme = "Theme",
-    Variation = "Variation"
 }
 export declare enum LabelTheme {
     Comfy = "comfy",
@@ -678,120 +856,6 @@ export declare enum Source {
     WrappingAPresent = "Wrapping a present",
     Zipper = "Zipper"
 }
-export declare enum Theme {
-    AmusementPark = "amusement park",
-    Ancient = "ancient",
-    ApparelShop = "apparel shop",
-    Arcade = "arcade",
-    Bathroom = "bathroom",
-    Café = "caf\u00E9",
-    ChildSRoom = "child's room",
-    CityLife = "city life",
-    Concert = "concert",
-    ConstructionSite = "construction site",
-    Den = "den",
-    European = "European",
-    Expensive = "expensive",
-    Facility = "facility",
-    Fancy = "fancy",
-    Fantasy = "fantasy",
-    Fitness = "fitness",
-    FreezingCold = "freezing cold",
-    Garden = "garden",
-    Harmonious = "harmonious",
-    Heritage = "heritage",
-    Horror = "horror",
-    Hospital = "hospital",
-    Kitchen = "kitchen",
-    Lab = "lab",
-    LivingRoom = "living room",
-    Local = "local",
-    Music = "music",
-    Nature = "nature",
-    Ocean = "ocean",
-    Office = "office",
-    Outdoors = "outdoors",
-    Park = "park",
-    Party = "party",
-    PublicBath = "public bath",
-    Resort = "resort",
-    Restaurant = "restaurant",
-    Retro = "retro",
-    School = "school",
-    SciFi = "sci-fi",
-    Shop = "shop",
-    Space = "space",
-    Sports = "sports",
-    Stylish = "stylish",
-    Supermarket = "supermarket",
-    Workshop = "workshop"
-}
-export declare enum VariantID {
-    The0_0 = "0_0",
-    The0_1 = "0_1",
-    The0_2 = "0_2",
-    The0_3 = "0_3",
-    The0_4 = "0_4",
-    The0_5 = "0_5",
-    The0_6 = "0_6",
-    The0_7 = "0_7",
-    The1_0 = "1_0",
-    The1_1 = "1_1",
-    The1_2 = "1_2",
-    The1_3 = "1_3",
-    The1_4 = "1_4",
-    The1_5 = "1_5",
-    The1_6 = "1_6",
-    The1_7 = "1_7",
-    The2_0 = "2_0",
-    The2_1 = "2_1",
-    The2_2 = "2_2",
-    The2_3 = "2_3",
-    The2_4 = "2_4",
-    The2_5 = "2_5",
-    The2_6 = "2_6",
-    The2_7 = "2_7",
-    The3_0 = "3_0",
-    The3_1 = "3_1",
-    The3_2 = "3_2",
-    The3_3 = "3_3",
-    The3_4 = "3_4",
-    The3_5 = "3_5",
-    The3_6 = "3_6",
-    The3_7 = "3_7",
-    The4_0 = "4_0",
-    The4_1 = "4_1",
-    The4_2 = "4_2",
-    The4_3 = "4_3",
-    The4_4 = "4_4",
-    The4_5 = "4_5",
-    The4_6 = "4_6",
-    The4_7 = "4_7",
-    The5_0 = "5_0",
-    The5_1 = "5_1",
-    The5_2 = "5_2",
-    The5_3 = "5_3",
-    The5_4 = "5_4",
-    The5_5 = "5_5",
-    The5_6 = "5_6",
-    The5_7 = "5_7",
-    The6_0 = "6_0",
-    The6_1 = "6_1",
-    The6_2 = "6_2",
-    The6_3 = "6_3",
-    The6_4 = "6_4",
-    The6_5 = "6_5",
-    The6_6 = "6_6",
-    The6_7 = "6_7",
-    The7_0 = "7_0",
-    The7_1 = "7_1",
-    The7_2 = "7_2",
-    The7_3 = "7_3",
-    The7_4 = "7_4",
-    The7_5 = "7_5",
-    The7_6 = "7_6",
-    The7_7 = "7_7"
-}
 export declare enum Version {
     The100 = "1.0.0",
     The110 = "1.1.0",
@@ -805,7 +869,8 @@ export declare enum Version {
     The170 = "1.7.0",
     The180 = "1.8.0",
     The190 = "1.9.0",
-    The200 = "2.0.0"
+    The200 = "2.0.0",
+    The204 = "2.0.4"
 }
 export declare enum VfxType {
     LightOff = "LightOff",

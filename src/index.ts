@@ -43,10 +43,12 @@ const SHEET_GROUPS = {
     'Music',
     'Fossils',
     'Artwork',
-    'Gyroids',
+    // 'Gyroids',
     'Other',
     'Paradise Planning',
   ],
+  artwork: ['Artwork'],
+  gyroids: ['Gyroids'],
   creatures: ['Insects', 'Fish', 'Sea Creatures'],
   construction: ['Construction'],
   recipes: ['Recipes'],
@@ -236,7 +238,6 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       }
 
       if (valueFormatter) {
-        
         try {
           value = valueFormatter(value, item);
         } catch (e) {
@@ -345,6 +346,31 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       delete item['6'];
     }
 
+    if (sheetKey === 'achievements') {
+      const tierCount = parseInt(item.numOfTiers);
+      item.tiers = Array(tierCount)
+        .fill(0)
+        .map((_, i) => {
+          const index = i + 1;
+
+          return {
+            qty: parseInt(item[`tier${index}`]),
+            reward: parseInt(item[`tier${index}Reward`]),
+            modifier: item[`tier${index}Modifier`],
+            Noun: item[`tier${index}Noun`],
+          };
+        });
+      Array(6)
+        .fill(0)
+        .forEach((_, i) => {
+          delete item[`tier${i + 1}`];
+          delete item[`tier${i + 1}Reward`];
+          delete item[`tier${i + 1}Modifier`];
+          delete item[`tier${i + 1}Noun`];
+        });
+      delete item['numOfTiers'];
+    }
+
     if (sheetKey === 'villagers') {
       item['colors'] = [item['color1'], item['color2']].filter(item => !!item);
       item['styles'] = [item['style1'], item['style2']].filter(item => !!item);
@@ -354,6 +380,13 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       delete item['style1'];
       delete item['style2'];
     }
+
+    // if (sheetKey === 'artwork') {
+    //   if (item['genuine'] === false) {
+    //     const genuineItem = data.find(i => i.name === item.name && i.genuine === true);
+    //     genuineItem.
+    //   }
+    // }
   }
 
   return data;
