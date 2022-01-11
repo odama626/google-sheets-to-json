@@ -104,7 +104,7 @@ export declare enum Size {
 export declare enum SourceSheet {
   Fish = 'Fish',
   Insects = 'Insects',
-  SeaCreatures = 'SeaCreatures',
+  SeaCreatures = 'Sea Creatures',
 }
 export declare enum VersionAdded {
   The130 = '1.3.0',

@@ -95,7 +95,7 @@ export async function main(auth: OAuth2Client) {
         ids.add(item['uniqueEntryId']);
       }
     } else {
-      if (key === 'items') {
+      if (['items', 'gyroids'].includes(key)) {
         data = await mergeItemVariations(data);
       }
 
@@ -153,22 +153,8 @@ export async function loadData(
 
     const [header, ...rows] = response.data.values!;
 
-    // keyName reset
-    let newSheetName = sheetName.replace(' ', '');
-    newSheetName = newSheetName.replace('-', '');
-
-    if (newSheetName == 'Wallmounted') {
-      newSheetName = 'WallMounted';
-    } else if (newSheetName == 'SpecialNPCs') {
-      newSheetName = 'SpecialNpcs';
-    } else if (newSheetName == 'Seasonsand Events') {
-      newSheetName = 'SeasonsAndEvents';
-    } else if (newSheetName == 'Tools/Goods') {
-      newSheetName = 'ToolsGoods';
-    }
-
     for (const row of rows) {
-      data.push({SourceSheet: newSheetName, ...zipObject(header, row)});
+      data.push({SourceSheet: sheetName, ...zipObject(header, row)});
     }
   }
 

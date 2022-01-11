@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.YearEnum = exports.VersionLastUpdated = exports.UnlockMethodEnum = exports.Type = exports.SourceSheet = void 0;
 var SourceSheet;
 (function (SourceSheet) {
-    SourceSheet["SeasonsAndEvents"] = "SeasonsAndEvents";
+    SourceSheet["SeasonsAndEvents"] = "Seasons and Events";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
 var Type;
 (function (Type) {

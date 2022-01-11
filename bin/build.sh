@@ -13,6 +13,8 @@ yarn quicktype out/special-npcs.json -o out/special-npcs.ts --just-types -t Spec
 yarn quicktype out/reactions.json -o out/reactions.ts --just-types -t Reaction
 yarn quicktype out/message-cards.json -o out/message-cards.ts --just-types -t MessageCard
 yarn quicktype out/season-and-events.json -o out/season-and-events.ts --just-types -t SeasonAndEvent
+yarn quicktype out/artwork.json -o out/artwork.ts --just-types -t Artwork
+yarn quicktype out/gyroids.json -o out/gyroids.ts --just-types -t Gyroid
 
 # Biggus Mammoth
 yarn quicktype out/all.json -o out/all.ts --just-types -t Item
